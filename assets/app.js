@@ -5,9 +5,7 @@
   "use strict";
 
   var stage = document.getElementById("stage");
-  var hint = document.getElementById("hint");
   var POS_KEY = "world-history:pos";
-  var SWIPED_KEY = "world-history:swiped";
 
   var chapters = [];   // flattened {book, year, n, date, verses, path, offset}
   var total = 0;       // total verses; position `total` is the closing page
@@ -174,10 +172,6 @@
     busy = true;
     if (pages[0]) pages[0].classList.remove("open");
     place(-dir * height(), true);
-    if (hint && !hint.hidden) {
-      hint.classList.add("gone");
-      store(SWIPED_KEY, "1");
-    }
     setTimeout(function () {
       var gone = pages[-dir];
       if (gone) stage.removeChild(gone);
@@ -275,7 +269,6 @@
       pos = g >= 0 ? g : 0;
       build();
       remember();
-      if (!store(SWIPED_KEY) && total > 0) hint.hidden = false;
     })
     .catch(function () {
       stage.innerHTML = "";
