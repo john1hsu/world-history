@@ -58,9 +58,9 @@ The site shows `text` on the page. Tapping the page shows `prose` and the source
    world politics and diplomacy, conflicts and peace efforts, economies and markets, science,
    health, space and technology, climate and disasters, culture and sport, and notable deaths.
    Cover **every inhabited region**, not only the United States and Europe. Prefer wire
-   services and public broadcasters (Reuters, AP, AFP, BBC, NPR, Al Jazeera, DW, NHK, ABC
-   Australia, CBC), official sources (governments, the UN, WHO, NASA, central banks) and
-   reputable newspapers. **Open every article you cite during this run.** Never cite from memory,
+   services and public broadcasters, official sources (governments, the UN, WHO, NASA, central
+   banks) and reputable newspapers, and draw on **many outlets, not one** (see "Sources" below).
+   **Open every article you cite during this run.** Never cite from memory,
    never invent a URL, and never use Wikipedia, aggregators, content farms or social posts.
    An event belongs to the day it happened or was announced. Things that were only expected
    that day go in as expectations ("ministers were due to...").
@@ -75,11 +75,50 @@ The site shows `text` on the page. Tapping the page shows `prose` and the source
    line scan. Rephrase until it scans, or choose a different event.
 6. **Check:** `python3 scripts/scan.py --file books/<year>/<NNN>.json` shows each verse's scansion.
    Fix every BAD line. Then `python3 scripts/validate.py` must print `OK`.
+   Run `python3 scripts/sources.py --file books/<year>/<NNN>.json` and clear every `WARN`
+   by finding other outlets for some verses (it never blocks a run, but treat it as required).
 7. **Publish:** `python3 scripts/build_index.py` (it re-validates and writes `index.json`).
    Then commit everything (the chapter, `index.json`, and any `books.json` or
    `meter/lexicon.json` changes) with the message
    `Longfellow 1: November 16, 2026` (book, chapter, date), and push to `main`.
    If the push is rejected, `git pull --rebase origin main`, rebuild the index, and push once more.
+
+## Sources
+
+**Spread.** No single publisher may be cited by more than **a third of the verses**, and a
+chapter should cite **at least eight publishers**. When one outlet has many of the day's
+stories, use it for a few and find the rest elsewhere: the same event is usually covered by a
+wire service, a public broadcaster or a newspaper from the region where it happened. Prefer
+an outlet from the region itself (a Pacific story from PACNEWS or ABC Australia, a Philippine
+one from the Inquirer or Manila Times). `scripts/sources.py` checks the spread.
+
+**These block our fetcher, so don't spend time on them** (robots.txt or a site block, as seen
+in earlier runs): reuters.com, npr.org, cnn.com, france24.com, aa.com.tr (but www.aa.com.tr
+sometimes opens), nzherald.co.nz, japantimes.co.jp. If WebFetch says a site is blocked or
+disallowed, move on to another outlet; never try to get around it.
+
+**Wire copy that opens.** AP and AFP stories are republished widely, and those copies open.
+Cite them with the wire as part of the publisher, e.g. `"Associated Press via PBS NewsHour"`:
+- AP: pbs.org/newshour, abcnews.com (wireStory), bostonglobe.com, smdailyjournal.com and
+  other local papers and TV stations that carry AP
+- AFP: news.yahoo.com and its regional editions (sg.news.yahoo.com etc.)
+
+**Outlets that have opened** (verified in earlier runs; use them as starting points, not a
+limit, and add to this list when you find more that work):
+- World and Middle East: aljazeera.com, euronews.com, UN News, WHO, climatechangenews.com
+- Europe: euronews.com, kyivindependent.com, uefa.com (sport)
+- Africa: africanews.com, allafrica.com (cite the original outlet it reprints, e.g. RFI or WFP),
+  ktpress.rw
+- Asia: inquirer.net, manilatimes.net, thestar.com.my (Asia News Network), bernama.com
+- Oceania: abc.net.au, 1news.co.nz, islandsbusiness.com (PACNEWS)
+- Americas: cbc.ca, pbs.org, abcnews.com, finance.yahoo.com (markets), vaticannews.va
+- Not yet tried, worth trying: bbc.com, dw.com, apnews.com, theguardian.com, nhk.or.jp,
+  rnz.co.nz, scmp.com, thehindu.com, premiumtimesng.com, nation.africa, batimes.com.ar
+
+Search tip: query by outlet and date (e.g. `cbc.ca news November 16 2026`, or a site's dated
+URL pattern such as `abc.net.au/news/2026-11-16`). Al Jazeera's daily sitemap
+(`aljazeera.com/sitemap.xml?yyyy=YYYY&mm=MM&dd=DD`) is a fast way to list the day's stories as
+leads; then look for some of them in other outlets.
 
 ## Writing dactylic hexameter in English
 
