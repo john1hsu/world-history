@@ -1,0 +1,4 @@
+{
+  "_note": "Stress patterns for names and words the CMU dictionary lacks or gets wrong. 1 = primary stress, 2 = secondary, 0 = unstressed; one digit per syllable. A list gives alternatives. Keys are lowercase.",
+  "longfellow": "102"
+}
