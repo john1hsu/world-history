@@ -1,4 +1,29 @@
 {
   "_note": "Stress patterns for names and words the CMU dictionary lacks or gets wrong. 1 = primary stress, 2 = secondary, 0 = unstressed; one digit per syllable. A list gives alternatives. Keys are lowercase.",
-  "longfellow": "102"
+  "longfellow": "102",
+  "ruwaili": "010",
+  "jurf": "1",
+  "kataib": "010",
+  "eisenkot": "100",
+  "kherson": "01",
+  "dnipro": "01",
+  "tibi": "10",
+  "kordofan": "102",
+  "phuket": "01",
+  "asean": "102",
+  "pena": "10",
+  "imran": "01",
+  "suva": "10",
+  "antalya": "010",
+  "pattinson": "100",
+  "lukaku": "010",
+  "saylor": "10",
+  "nvidia": "0100",
+  "thirteen": [
+    "10",
+    "01"
+  ],
+  "waqa": "10",
+  "moana": "010",
+  "openai": "1021"
 }

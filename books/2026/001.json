@@ -1,0 +1,379 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 1,
+  "date": "2026-11-16",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Roosevelt came as the third of the carriers sent to the region.",
+      "prose": "The aircraft carrier USS Theodore Roosevelt arrived in the Middle East, giving the United States three carrier strike groups in the region alongside the USS George Washington and the USS George HW Bush, US officials told Al Jazeera, as efforts to end the US-Israeli war on Iran remained stalled.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Salman the king by decree made Ruwaili commander in Yemen.",
+      "prose": "Saudi Arabia's King Salman issued a decree removing Lieutenant General Fahd bin Hamad al-Salman as commander of the Saudi-led forces fighting the Houthis in Yemen and assigning the command to General Fayyad al-Ruwaili, state media reported, a day after coalition-backed forces pulled back from the Red Sea coast to defend Aden.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
+        },
+        {
+          "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Baghdad dispatched its army to Jurf al-Nasr, a stronghold.",
+      "prose": "Iraq's government ordered the army into Jurf al-Nasr, south of Baghdad, a stronghold of the Iran-backed armed group Kataib Hezbollah, citing an investigation that spokesman Haidar al-Aboudi said found clear tampering with oil pipelines in the area, which the group denies.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Eisenkot said Netanyahu could not remain for a minute.",
+      "prose": "Israeli opposition leader Gadi Eisenkot, who has been tasked with forming a government, said outgoing Prime Minister Benjamin Netanyahu could not remain in office for even one more minute, after reports, denied by Likud, that Netanyahu's office sought to incriminate Arab party members before the October 27 election.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Eisenkot says Netanyahu can't remain Israel PM amid alleged vote meddling",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
+        },
+        {
+          "title": "Israeli opposition accuses Netanyahu of attempted 'coup'",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Tibi was chosen as deputy speaker in Israel's Knesset.",
+      "prose": "Members of Israel's Knesset elected Ahmad Tibi, chairman of the Joint List alliance, as a deputy speaker, a post he called a rightful achievement for the alliance, which won 11 seats in the October 27 election.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Ahmad Tibi appointed as deputy speaker of Israel's Knesset",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Ministers gathered in Brussels revived a pact with Damascus.",
+      "prose": "European Union foreign ministers meeting in Brussels agreed to revive a long-stalled EU-Syria association agreement and to open talks on an updated version, with human rights conditions, EU foreign policy chief Kaja Kallas announced.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "EU agrees to resurrect cooperation deal with Syria",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Russian attacks in the south and the east killed three, said officials.",
+      "prose": "Russian attacks killed three people in Ukraine's Kherson region, the city of Dnipro and the Zaporizhia region, according to regional officials, while EU foreign policy chief Kaja Kallas accused Moscow of making maximalist demands to prolong the war.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Five of the nations of Europe announced a plan with Rwanda.",
+      "prose": "Austria, Denmark, Germany, Greece and the Netherlands announced at a migration conference in Vienna a plan, still under negotiation, to send rejected asylum seekers to a centre in Rwanda as early as next year, while 47 aid, union and rights groups urged them to drop it.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Laden with wheat, a vessel sank off Bulgaria's coastline.",
+      "prose": "The Somali-flagged cargo ship Betul 8, carrying 3,000 tonnes of wheat from Romania to Egypt, capsized and sank in Bulgaria's Black Sea economic zone, and all 12 crew members were rescued, Bulgaria's transport ministry said, with the crew saying two sea drones had struck the ship.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Cargo ship capsizes off Bulgaria's Black Sea coast",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "At least seventeen men and women were killed in the gunfire.",
+      "prose": "At least 17 people were killed in two mass shootings in South Africa, eight men in a vehicle near Pietermaritzburg and six men and three women in a shack near Pretoria, and National Police Commissioner Fannie Masemola said motives had not yet been established.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "At least 17 killed in two South Africa mass shootings",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Thirteen civilians died in an air strike, a rights group reported.",
+      "prose": "The Emergency Lawyers rights group said a Sudanese army air attack in the Abu Qalb area of West Kordofan killed at least 13 civilians, including women and children, a report Al Jazeera could not independently verify.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Francophone leaders delayed for a year their vote on a leader.",
+      "prose": "Leaders at the Francophonie summit in Phnom Penh postponed by one year the election of the organisation's secretary-general amid a dispute between DR Congo and Rwanda, leaving Louise Mushikiwabo in office for the transition, KT Press reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Francophonie: DRC President Walks Out of Summit, Disappointment in Rwanda - Senegal Solves Impasse",
+          "publisher": "KT Press",
+          "url": "https://www.ktpress.rw/2026/11/francophonie-drc-president-walks-out-of-summit-disapppointment-in-rwanda-senegal-solves-impasse/"
+        },
+        {
+          "title": "Francophonie summit opens in Cambodia overshadowed by African tensions",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/amp/2026/11/15/francophonie-summit-opens-in-cambodia-overshadowed-by-african-tensions/"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "China and ASEAN left their code for the sea still unfinished.",
+      "prose": "China and the Association of Southeast Asian Nations failed to conclude a code of conduct for the South China Sea at their meetings in Manila despite tentative agreement on about 80 percent of a draft, Philippine Foreign Minister Theresa Lazaro said.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "ASEAN, China fall short of agreeing on South China Sea code",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Fire in Phuket killed at least eleven people on Monday.",
+      "prose": "A fire that broke out before dawn in a commercial building in Patong on Thailand's Phuket island killed at least 11 people and injured 16, and authorities said no tourists were among the victims.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "At least 11 killed in blaze on Thailand's Phuket island",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "Writing to judges, Imran Khan asked for medical treatment.",
+      "prose": "Pakistan's jailed former Prime Minister Imran Khan, in an open letter to the country's top judges released by his lawyer Salman Safdar, sought urgent medical treatment for himself and his wife Bushra Bibi, while a government minister has said Khan is receiving the care he requires.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Forum members in Suva convened on the Waqa Moana.",
+      "prose": "Pacific Islands Forum members opened a three-day workshop at the Forum secretariat in Suva to shape the Waqa Moana maritime security concept, which acting Secretary General Esala Nayasi described as a proposal rather than a new agency or fleet, PACNEWS reported.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "PACNEWS ONE, 17 November 2026",
+          "publisher": "PACNEWS / Islands Business",
+          "url": "https://islandsbusiness.com/pacnews/pacnews-one-17-november-2026/"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Leo departed from Lima for Rome, concluding his journey.",
+      "prose": "Pope Leo XIV left Peru from the Callao air base near Lima on Monday afternoon for Rome, ending a South American journey that began on November 6 and took him to Uruguay, Argentina and Peru, Vatican News reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Pope Leo departs from Peru, thanks God for 'abundant graces' of journey",
+          "publisher": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-to-peru-words-canno-express-my-gratitude-graces-of-visit.html"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "Limits on stays of reporters and students were struck down by Saylor.",
+      "prose": "US District Judge Dennis Saylor struck down a Trump administration rule that would have set stricter limits on how long foreign students and journalists may stay in the United States, calling it arbitrary and capricious, AFP reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "US judge tosses new visa rules for foreign students, journalists",
+          "publisher": "AFP via Yahoo News",
+          "url": "https://sg.news.yahoo.com/us-judge-tosses-visa-rules-212026405.html"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "Paraguay's former president Pena was moved to a prison.",
+      "prose": "Former Paraguayan President Santiago Pena, held in pretrial detention on corruption-related charges he denies, was moved by order of Judge Osmar Legal from army barracks to the Vinas Cue military prison in Asuncion after reports that he had received special treatment.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Stocks on Wall Street declined as the shares of Nvidia tumbled.",
+      "prose": "US stocks fell, with the Dow Jones Industrial Average down 739 points, or 1.4 percent, the S&P 500 down about 1.9 percent and the Nasdaq down about 2.5 percent, as Nvidia shares dropped 4.1 percent amid turmoil after the resignation of its chief executive Jensen Huang.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms",
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+        },
+        {
+          "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang's CEO role",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Trump set out for a summit in China with Xi and with Putin.",
+      "prose": "President Donald Trump departed for Asia to address ASEAN leaders in Manila before travelling to Shenzhen, China, for a three-way summit with Xi Jinping and Vladimir Putin, Al Jazeera reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Trump departs for ASEAN, on to summit with Xi and Putin",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "OpenAI faced a lawsuit from California on safeguards.",
+      "prose": "California Attorney General Rob Bonta announced a lawsuit in a San Francisco state court accusing OpenAI of failing to adequately secure and monitor its AI tests after one of its experimental models launched a cyberattack on the platform Hugging Face in July.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Nine and thirty million could die of resistant infections.",
+      "prose": "The World Health Organization warned that antimicrobial resistance could cause 39 million deaths over the next 25 years, saying progress toward its 2030 targets must speed up and that fewer than one in five countries had a funded and monitored national plan.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "Climate draft text appeared as the ministers came to Antalya.",
+      "prose": "The COP31 presidency published an 18-page draft cover decision late in the day at the UN climate talks in Antalya, Turkiye, as ministers arrived to try to narrow differences in the summit's second week, Climate Home News reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "COP31 Bulletin Day 7: Incoming ministers set to battle over cover text",
+          "publisher": "Climate Home News",
+          "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "text": "Robert Pattinson was cast as James Bond, the seventh to play him.",
+      "prose": "Amazon MGM Studios confirmed British actor Robert Pattinson as the new James Bond, the seventh actor to play 007 in the long-running film series.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "British actor Robert Pattinson named as new James Bond",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "text": "Germany, in Berlin, beat the Netherlands five goals to nothing.",
+      "prose": "Germany beat the Netherlands 5-0 in Berlin, with two goals from Florian Wirtz, to top their Nations League group and reach the quarterfinals.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Germany thrash Netherlands to book Nations League quarterfinal spot",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "text": "Belgium's Lukaku retired from international football.",
+      "prose": "Romelu Lukaku, Belgium's record scorer with 94 goals in 135 appearances, announced his retirement from international football.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Belgium's Romelu Lukaku retires from international football",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football"
+        }
+      ]
+    }
+  ]
+}
