@@ -1,0 +1,399 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 2,
+  "date": "2026-11-17",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Guards of Iran sent drones at Bahrain, whose defences said they downed them.",
+      "prose": "Iran's Revolutionary Guards said they launched drones at a US-operated radar at Bahrain's Sheikh Isa air base, and Bahrain and US Central Command said the drones were intercepted without damage.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+        },
+        {
+          "title": "Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Washington struck at a launch site on Qeshm, an official reported.",
+      "prose": "Hours after the attack on Bahrain, the United States struck a missile launch site on Iran's Qeshm island in the Strait of Hormuz, a US official told Al Jazeera, while a provincial official told IRNA there was no damage to residential areas.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Doha, warning of danger, would meet Iran in the evening.",
+      "prose": "Qatar's foreign ministry spokesman Majed Al Ansari warned that the Gulf escalation posed a grave danger to the chances of a US-Iran deal and said Qatar would meet Iranian officials later on Tuesday as part of its mediation.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Six and sixty members elected Kahana as speaker.",
+      "prose": "Israel's Knesset elected Matan Kahana, an ally of Gadi Eisenkot, as speaker with 66 of 120 votes, against 52 for Likud's Ofir Katz, replacing Netanyahu ally Amir Ohana.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli parliament elects Eisenkot ally as new Knesset speaker",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/18/israeli-parliament-elects-eisenkot-ally-as-new-knesset-speaker/"
+        },
+        {
+          "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Missiles from Russia damaged the North and the South bridge of Kyiv.",
+      "prose": "Russian ballistic missiles struck Kyiv's North and South bridges over the Dnipro overnight into 17 November, closing both for damage checks, and two people were killed in the Obolonskyi district, Ukraine's emergency service said.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
+        },
+        {
+          "title": "Russian missiles hit Kyiv's North and South bridges as allies prepare to meet at NATO HQ",
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/russian-missiles-hit-kyivs-north-and-south-bridges-as-allies-prepare-to-meet-at-nato-hq-24431"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Forces of Kyiv brought down a part of the bridge to Crimea.",
+      "prose": "A Ukrainian attack caused a section of the bridge linking Russia's Krasnodar region to Crimea to collapse, Euronews reported, and Ukraine's defence minister Yevhen Khmara called it a response to Russian strikes on Ukrainian bridges.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Russia to hold emergency talks after Crimea bridge attack causes section to collapse",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/russian-strikes-hit-two-major-bridges-in-ukraines-capital-citys-mayor-says"
+        },
+        {
+          "title": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Nineteen died as a plane crashed near a Siberian village.",
+      "prose": "All 19 people aboard a Russian military An-12 cargo plane were killed when it crashed in an unpopulated area near the village of Yagunovo in the Kemerovo region of Siberia, Russia's Defence Ministry said.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Russian military plane crash in Siberia kills 19",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Six and forty were hurt as trains crashed in Prague in the morning.",
+      "prose": "Two trains collided on a Prague overpass near the city's main station on Tuesday morning, injuring 46 people, four of them severely, according to Prague's emergency medical service.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "46 people injured after two trains collide in Prague",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/46-people-injured-after-two-trains-collide-in-prague"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Serbia's parliament met for the first time, with students in power.",
+      "prose": "Serbia's new parliament held its first sitting since the October election, in which the student-backed Students' List won 140 of 250 seats, ending 14 years of rule by Aleksandar Vucic's party.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Serbia's new parliament meets for first time since student-led movement won election",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/serbias-new-parliament-meets-for-first-time-since-student-led-movement-won-election"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "Brussels raised its forecast, but said that inflation would linger.",
+      "prose": "The European Commission raised its forecast for EU growth in 2026 to 1.4 percent from 1.1 percent, while projecting inflation of 3.3 percent this year and 3.2 percent in 2027.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "EU economy beats expectations but energy shock keeps inflation higher for longer",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/eu-economy-beats-expectations-but-energy-shock-keeps-inflation-higher-for-longer"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Tried for incitement to terror, Mondlane appeared in Maputo.",
+      "prose": "Mozambican opposition leader Venancio Mondlane went on trial in Maputo on charges including instigation and incitement to terrorism over the unrest that followed the 2024 election, Africanews and AP reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Mozambique opposition leader Venâncio Mondlane goes on trial in high-stakes terrorism case",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/17/mozambique-opposition-leader-venancio-mondlane-goes-on-trial-in-high-stakes-terrorism-case/"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Guinea jailed two hundred and twenty and more in a crackdown.",
+      "prose": "In a crackdown on illegal gold mining, a court in Guinea's capital Conakry jailed 22 former local officials for two years and 202 miners for three years, more than 220 people in all, Africanews reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Guinea jails more than 220 people in deadly crackdown on illegal gold mining",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/17/guinea-jails-more-than-220-people-in-deadly-crackdown-on-illegal-gold-mining/"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "Bhutto Zardari of Pakistan urged a political reset.",
+      "prose": "Pakistan Peoples Party chairman Bilawal Bhutto-Zardari told reporters in Karachi that the system had been made to collapse and called for a political reset beginning in parliament, Dawn reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "In hard-hitting speech, Bilawal says system was 'made to collapse'",
+          "publisher": "Dawn",
+          "url": "https://www.dawn.com/news/2045176/in-hard-hitting-speech-bilawal-says-system-was-made-to-collapse"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Trump arrived in Manila and dined with the ASEAN leaders.",
+      "prose": "US President Donald Trump landed in Manila on Tuesday evening at the start of a three-day Asia trip, meeting leaders of the Quad and attending a gala dinner of the ASEAN summit as guest of honour, AP reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies",
+          "publisher": "Associated Press via WHEC",
+          "url": "https://www.whec.com/ap-top-news/trump-arrives-in-philippines-to-kick-off-asia-trip-with-economic-deals-and-talks-with-allies/"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "Thailand would lift its tariffs on most American products.",
+      "prose": "Trump signed a trade statement with Thailand under which Thailand would remove tariffs on most American goods, and Trump said Thailand would buy 2.6 billion dollars of US farm products, AP reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies",
+          "publisher": "Associated Press via WHEC",
+          "url": "https://www.whec.com/ap-top-news/trump-arrives-in-philippines-to-kick-off-asia-trip-with-economic-deals-and-talks-with-allies/"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Two planes, suspected as Russian, entered Japan, which protested.",
+      "prose": "Two suspected Russian aircraft briefly entered Japanese airspace near Okinoshima in Fukuoka early on 17 November, and Japan lodged a stern protest with Russia, government spokesman Minoru Kihara said.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Japan scrambles jets after suspected Russian planes enter airspace, Tokyo says",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/japan-scrambles-jets-after-suspected-russian-planes-enter-airspace-tokyo-says"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Xavier, the cyclone, bore down on Pukapuka and Nassau.",
+      "prose": "Severe Tropical Cyclone Xavier, a Category 5 system with gusts of up to 315 kilometres an hour, threatened Pukapuka and Nassau in the northern Cook Islands, where officials urged residents to stay in safe shelter.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Severe Cyclone Xavier threatens Pukapuka, Nassau and Suwarrow",
+          "publisher": "Cook Islands News",
+          "url": "https://www.cookislandsnews.com/national/local/outer-islands/weather/severe-cyclone-xavier-threatens-pukapuka-nassau-and-suwarrow/"
+        },
+        {
+          "title": "Cyclone Xavier at category 5 as it batters northern Cook Islands",
+          "publisher": "1News",
+          "url": "https://www.1news.co.nz/2026/11/18/cyclone-xavier-at-category-5-as-it-batters-northern-cook-islands/"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "Hundreds in Haiti rallied for soldiers sent by Bukele.",
+      "prose": "Hundreds of people rallied in Port-au-Prince and other Haitian cities in support of the deployment of about 2,500 Salvadoran troops ordered by El Salvador's President Nayib Bukele.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Haitians protest in support of El Salvador's anti-gang troop deployment",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "Scholars said that poverty in Argentina was higher.",
+      "prose": "The Catholic University's Social Debt Observatory put Argentina's poverty rate at 42.4 percent, above the official INDEC figure of 32.3 percent, and said it had risen from 41.7 percent since late 2023.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "UCA observatory challenges Milei government's poverty figures",
+          "publisher": "Buenos Aires Times",
+          "url": "https://www.batimes.com.ar/news/argentina/uca-observatory-challenges-milei-governments-poverty-figures.phtml"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Measles, the experts found, was endemic in three of the nations.",
+      "prose": "The Pan American Health Organization said a regional expert commission had found endemic measles transmission re-established in the United States, Mexico and Bolivia, so all three lost their measles elimination status.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
+          "publisher": "Pan American Health Organization",
+          "url": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards"
+        },
+        {
+          "title": "US officially loses measles-free status after 26 years in historic setback",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Wicker, Republican, called a return to steam a nonstarter.",
+      "prose": "Trump's order to return to steam catapults on new aircraft carriers met Republican pushback, with Senate Armed Services chair Roger Wicker calling it a nonstarter, AP reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Trump faces GOP pushback to his order to use steam to launch jets from aircraft carriers",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/US/wireStory/trump-faces-gop-pushback-order-steam-launch-jets-138230538"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "Stocks fell on Wall Street, and most of the shares in the index were lower.",
+      "prose": "The S&P 500 fell 1 percent and the Dow 1.6 percent, with about 17 of every 20 S&P stocks lower, before Nvidia reported results above expectations after the close, AP reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Another wipeout hits Wall Street as Nvidia, other jittery AI stocks swing lower",
+          "publisher": "Associated Press via WLUC",
+          "url": "https://www.uppermichiganssource.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Hoekstra warned that the draft at Antalya needed revising.",
+      "prose": "At the COP31 climate talks in Antalya, EU climate envoy Wopke Hoekstra said the draft text published by Australia needed significant change and could make the negotiations untenable.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Tensions rise over draft climate deal at COP31",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "Earthshot prizes in India went to Bhutan and to Orsted.",
+      "prose": "At the sixth Earthshot Prize ceremony in Mumbai, Prince William named winners including Bhutan and the Danish offshore wind company Orsted, each receiving one million pounds.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "'Change is possible': Danish offshore wind giant wins Earthshot Prize after quitting oil and gas",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/change-is-possible-danish-offshore-wind-giant-wins-earthshot-prize-after-quitting-oil-and-"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "text": "Illinois won at Duke, with Stojakovic scoring a record.",
+      "prose": "Andrej Stojakovic scored 46 points, the most ever by an opponent at Duke, as 10th-ranked Illinois beat fifth-ranked Duke 99-78 at Cameron Indoor Stadium, AP reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Stojakovic scores record-setting 46 points to help No. 10 Illinois beat No. 5 Duke 99-78 on the road",
+          "publisher": "Associated Press via News4JAX",
+          "url": "https://www.news4jax.com/sports/2026/11/18/stojakovic-scores-record-setting-46-points-to-help-no-10-illinois-beat-no-5-duke-99-78-on-the-road/"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "text": "Europe had chosen Diallo to run against Infantino.",
+      "prose": "The French federation was due on Tuesday to ratify the candidacy of its president Philippe Diallo, proposed by UEFA to challenge Gianni Infantino in the FIFA presidential election in Rabat in March 2027.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "France's Philippe Diallo enters race for FIFA president",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/17/frances-philippe-diallo-enters-race-for-fifa-president/"
+        },
+        {
+          "title": "French football chief Diallo to challenge Infantino for FIFA presidency",
+          "publisher": "Reuters via bdnews24.com",
+          "url": "https://bdnews24.com/sport/8s2t2latqz"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "text": "Rajab, defender of rights in Bahrain, died in exile in Turkey.",
+      "prose": "Nabeel Rajab, the Bahraini human rights activist who helped found the Bahrain Center for Human Rights, died in Turkey at 62, the centre and family friends said.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/International/wireStory/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-138231196"
+        },
+        {
+          "title": "Bahraini activist Nabeel Rajab dies in Turkey",
+          "publisher": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/bahraini-activist-nabeel-rajab-dies-turkey"
+        }
+      ]
+    }
+  ]
+}
