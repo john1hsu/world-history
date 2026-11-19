@@ -1,0 +1,353 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 3,
+  "date": "2026-11-18",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Trump came to Shenzhen, and Xi was there at the airport to greet him.",
+      "prose": "US President Donald Trump arrived in Shenzhen for the APEC summit and was greeted at the airport by Chinese President Xi Jinping, who embraced him, returning the courtesy Trump had shown Xi in Washington in September, Euronews and Africanews reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Trump and Putin shake hands ahead of high-stakes trilateral summit in China",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
+        },
+        {
+          "title": "Trump, Putin, and Xi meet ahead of historic three-way talks in China",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/18/trump-putin-and-xi-meet-ahead-of-historic-three-way-talks-in-china/"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Putin and Trump shook hands at the gala dinner in Shenzhen.",
+      "prose": "Trump and Russian President Vladimir Putin shook hands at the APEC leaders' gala dinner hosted by Xi in Shenzhen, their first meeting since August 2025, ahead of a first-ever three-way meeting of the leaders set for Thursday, Euronews reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Trump and Putin shake hands ahead of high-stakes trilateral summit in China",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Xi met Putin and called for cooperation with Russia.",
+      "prose": "Xi Jinping met Vladimir Putin in Shenzhen on the sidelines of the APEC summit, praising China-Russia ties and calling for deeper all-round cooperation between the two countries, while Putin told the APEC CEO summit that old tools of economic coercion had become obsolete, Africanews reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Xi and Putin meet at APEC summit ahead of trilateral talks with Trump",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/18/xi-and-putin-meet-at-apec-summit-ahead-of-trilateral-talks-with-trump/"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Xi, in a speech to the business leaders, made four proposals.",
+      "prose": "Opening the APEC CEO Summit in Shenzhen, Xi set out four proposals, from upholding peace and stability to supporting a WTO-centred trading system and a Free Trade Area of the Asia-Pacific, and said China's economy grew 4.6 percent in the first three quarters, China's foreign ministry said.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "President Xi Jinping Attends the Opening Ceremony of the APEC CEO Summit and Delivers the Keynote Speech",
+          "publisher": "Ministry of Foreign Affairs of China",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202611/t20261118_12062128.html"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Strikes from Iran on Kuwait and Bahrain were stopped by defenses.",
+      "prose": "Iran attacked the US-used Ali Al Salem air base in Kuwait and sites hosting US facilities in Bahrain, saying it was responding to US drone surveillance, and Kuwait's and Bahrain's militaries said they intercepted the attacks, with no damage immediately reported, AP reported.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait, sites in Bahrain",
+          "publisher": "Associated Press via Spectrum News",
+          "url": "https://spectrumlocalnews.com/tx/austin/international/2026/11/18/u-s--iran-war-gulf-attacks-kuwait-bahrain"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Sixty targets were hit, said the Saudis and allies, in Yemen.",
+      "prose": "The Saudi-led coalition said it had struck 60 Houthi military targets in the Sanaa, Hodeidah, Amran and Saada governorates and had intercepted two Houthi cruise missiles aimed at Riyadh, as government forces and the Houthis fought in Taiz, Al Jazeera reported.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees 'fierce battles'",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Four were killed in Odesa as Russia attacked, said officials.",
+      "prose": "Russian strikes on the historic centre of Odesa killed four people and injured at least 13, regional governor Oleh Kiper said, among at least five people killed in Russian attacks across Ukraine, Africanews and Al Jazeera reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Ukraine: Four killed and at least 13 injured in Russian strike on Odesa",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa/"
+        },
+        {
+          "title": "Russian attacks on Ukraine kill at least five people",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Germany's leaders agreed they would cut electricity duty.",
+      "prose": "Germany's governing coalition agreed after eight hours of talks to cut the electricity tax to the EU minimum of 0.1 cents per kilowatt-hour from 1 January 2027, at a cost of 5.4 billion euros, and to extend a fuel price cap, Euronews reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Germany cuts energy tax and extends fuel price cap in 2027",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/18/germany-cuts-energy-tax-and-extends-fuel-price-cap-in-2027"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Judges suspended the trial of an editor, pending a ruling.",
+      "prose": "A Cairo court suspended the trial of Mada Masr editor-in-chief Lina Attalah, charged with publishing false news and running an unlicensed website, after her defence asked the judge to step aside, pending a ruling on that request scheduled for 26 November, Africanews reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Egypt court suspends trial of Mada Masr editor Lina Attalah",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/18/egypt-court-suspends-trial-of-mada-masr-editor-lina-attalah/"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "Exports of olive oil rose by nearly a half in Tunisia.",
+      "prose": "Tunisia's olive oil exports rose 47.7 percent to 413,100 tonnes in the season that ended in October, earning 1.7 billion dollars, official figures cited by Africanews and AFP showed.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Tunisia olive oil exports jump nearly 50% on bumper harvest",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/18/tunisia-olive-oil-exports-jump-nearly-50-on-bumper-harvest/"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Pakistan tested a missile, the Fatah Three, said its army.",
+      "prose": "Pakistan's army conducted a launch of the Fatah-3 supersonic cruise missile, the military's media wing ISPR said, and President Asif Ali Zardari and Prime Minister Shehbaz Sharif congratulated the team, Dawn reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR",
+          "publisher": "Dawn",
+          "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Fiji declared a disaster for the whole of the land in the drought.",
+      "prose": "Prime Minister Sitiveni Rabuka announced that Fiji's cabinet had declared a nationwide state of disaster for up to 30 days over a deepening El Nino drought and redirected 20 million Fiji dollars to the response, the Pacific Islands News Association reported.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Fiji declares nationwide state of disaster as El Nino drought deepens",
+          "publisher": "Pacific Islands News Association",
+          "url": "https://pina.com.fj/2026/11/18/fiji-declares-nationwide-state-of-disaster-as-el-nino-drought-deepens/"
+        },
+        {
+          "title": "PACNEWS THREE, 18 November 2026",
+          "publisher": "PACNEWS via Islands Business",
+          "url": "https://islandsbusiness.com/pacnews/pacnews-three-18-november-2026/"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "Hegseth flew to Caracas and met with the interim leader.",
+      "prose": "US Defence Secretary Pete Hegseth made an unannounced visit to Caracas and met Venezuela's interim leader Delcy Rodriguez, and Venezuelan state television reported a military cooperation agreement, Euronews reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "US Defence Secretary announces military cooperation in surprise Caracas visit",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/18/us-defence-secretary-announces-military-cooperation-in-surprise-caracas-visit"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Jurors convicted a pastor of plotting a president's killing.",
+      "prose": "A Florida pastor with dual Haitian-American citizenship was convicted of US charges related to the 2021 assassination of Haitian President Jovenel Moise, found guilty on all eight counts including conspiracy to kill, with sentencing set for 10 February, AP reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moise",
+          "publisher": "Associated Press via WRAL",
+          "url": "https://www.wral.com/news/ap/213f3-florida-pastor-convicted-of-us-charges-related-to-assassination-of-haitian-president-jovenel-mo-se/"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "Senators backed a plan to suspend the primary voting.",
+      "prose": "The Argentine Senate's constitutional affairs committee approved, with 11 of its 19 members' signatures, President Javier Milei's bill to suspend the primary elections due in 2027, sending it toward a vote of the full Senate, the Buenos Aires Times reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Milei's reform to suspend primary elections overcomes key hurdle",
+          "publisher": "Buenos Aires Times",
+          "url": "https://www.batimes.com.ar/news/argentina/mileis-reform-to-suspend-primary-elections-overcomes-key-hurdle.phtml"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Democrats nominated Jeffries to stand as the speaker.",
+      "prose": "House Democrats nominated Hakeem Jeffries for speaker by 251 votes to 11 in a closed-door vote, moving him closer to becoming the first Black speaker of the House when the new Congress convenes on 3 January, Euronews reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Dow Jones fell, and Nvidia slid for a fifth day of losses.",
+      "prose": "The Dow Jones Industrial Average fell 1.1 percent and the S&P 500 slipped 0.2 percent while the Nasdaq rose, and Nvidia shares fell for a fifth straight day despite quarterly results that beat expectations, Yahoo Finance reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Stock market today: Dow, S&P 500 slip ahead of Anthropic IPO, Nvidia stock extends decline",
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "Shares of Anthropic were priced in the largest offering in history.",
+      "prose": "The artificial intelligence company Anthropic priced its initial public offering late on Wednesday at 83 dollars a share, raising 81.3 billion dollars in what Al Jazeera called the biggest IPO of all time, with trading on the Nasdaq due to begin on Thursday.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Anthropic raises $81.3bn in biggest IPO of all time",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "Gold fell to its lowest in more than a year in the markets.",
+      "prose": "Gold fell below 3,800 dollars an ounce, its lowest level in more than a year, touching 3,742 dollars according to Reuters, raising concerns for African producers such as Mali, Ghana and Tanzania, Africanews reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Gold drops to over one-year low, raising concerns for African producers",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/18/gold-drops-to-over-one-year-low-raising-concerns-for-african-producers/"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Europe's agency warned of a rise in resistant infections.",
+      "prose": "The European Centre for Disease Prevention and Control reported rising rates of drug-resistant E. coli and Klebsiella infections, said more than 35,000 people die each year from antimicrobial resistance in the EU, Iceland, Liechtenstein and Norway, and warned of a possible return to a pre-antibiotic era, Euronews reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Europe risks returning to 'pre-antibiotic era' amid growing threat of drug-resistant superbugs",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/18/europe-risks-returning-to-pre-antibiotic-era-amid-growing-threat-of-drug-resistant-superbu"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Voyager reached one light-day from Earth, the first of our spacecraft.",
+      "prose": "NASA's Voyager 1, launched in 1977, became the first spacecraft to reach one light-day from Earth, about 25.9 billion kilometres away, early on 18 November, EarthSky and ABC7 reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Voyager 1 is 1 light-day from Earth on November 17-18, 2026",
+          "publisher": "EarthSky",
+          "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+        },
+        {
+          "title": "NASA robotic space probe, Voyager 1, to reach exactly 1 light-day away from Earth",
+          "publisher": "ABC7 News",
+          "url": "https://abc7news.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "Diggers uncovered the floor of a church in Sudan's Old Dongola.",
+      "prose": "A Polish-Sudanese archaeological mission reached part of the original floor of the Great Church of Jesus at Old Dongola in northern Sudan, described as the most important church of medieval Makuria, Africanews reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Archaeologists uncover medieval cathedral floor in northern Sudan",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/18/archaeologists-uncover-medieval-cathedral-floor-in-northern-sudan/"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Muslims would soon outnumber Christians in less than a decade.",
+      "prose": "The Pew Research Center projected that Muslims will outnumber Christians worldwide by 2035, at about 2.57 billion to 2.52 billion, mainly because of higher fertility rather than conversion, AP reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
+          "publisher": "Associated Press via PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "England defeated Australia at Hobart and captured the series.",
+      "prose": "England beat Australia by 97 runs in the third one-day international in Hobart to win the series 2-1, with Ben Duckett scoring 133 and Sonny Baker taking four wickets for 45, Sky Sports reported.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "England cruise to ODI series win over Australia as Ben Duckett scores century and Sonny Baker takes four wickets",
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/cricket/news/13613516/england-cruise-to-odi-series-win-over-australia-as-ben-duckett-scores-century-and-sonny-baker-takes-four-wickets"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "text": "Larry Poindexter, actor in Days of Our Lives, died on Wednesday.",
+      "prose": "Larry Poindexter, the American actor known for Days of Our Lives, died at 66 in hospital, where he was awaiting surgery after being struck by a car in Studio City, California, InTouch Weekly reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "'Days of Our Lives' Actor Larry Poindexter Dies at 66 While Awaiting Surgery After Being Hit by Car",
+          "publisher": "InTouch Weekly via Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/days-lives-actor-larry-poindexter-064239078.html"
+        }
+      ]
+    }
+  ]
+}

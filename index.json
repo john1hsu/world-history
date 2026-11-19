@@ -17,6 +17,12 @@
      "date": "2026-11-17",
      "verses": 27,
      "path": "books/2026/002.json"
+    },
+    {
+     "n": 3,
+     "date": "2026-11-18",
+     "verses": 25,
+     "path": "books/2026/003.json"
     }
    ]
   }
