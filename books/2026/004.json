@@ -1,0 +1,370 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 4,
+  "date": "2026-11-19",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Trump, Xi and Putin, in Shenzhen, agreed to a peace declaration.",
+      "prose": "Donald Trump, Xi Jinping and Vladimir Putin adopted a four-point \"declaration of peace\" after their first three-way talks, held in Shenzhen on the sidelines of the APEC summit, covering UN reform, energy supplies, international law and nuclear security, the Kyiv Independent and Reuters reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Trump joins Putin, Xi in signing 'declaration of peace' as summit largely sidesteps Ukraine",
+          "publisher": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-sits-down-with-his-friend-putin-chinas-xi-for-unprecedented-trilateral-talks/"
+        },
+        {
+          "title": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit",
+          "publisher": "Reuters via West Hawaii Today",
+          "url": "https://www.westhawaiitoday.com/2026/11/20/nation-world-news/trump-xi-and-putin-release-peace-declaration-from-unprecedented-summit/"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Nuclear war can never be won, they affirmed in their statement.",
+      "prose": "The declaration reaffirmed that a nuclear war cannot be won and must never be fought, but it announced no arms control talks and did not mention the war in Ukraine or the US conflict with Iran, Reuters reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit",
+          "publisher": "Reuters via West Hawaii Today",
+          "url": "https://www.westhawaiitoday.com/2026/11/20/nation-world-news/trump-xi-and-putin-release-peace-declaration-from-unprecedented-summit/"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Peace, said Merz in Berlin, would not come from the format of Yalta.",
+      "prose": "Hosting a meeting of Ukraine's allies in the Coalition of the Willing in Berlin, German Chancellor Friedrich Merz said a Yalta format would not bring peace, and Europe named a joint team of seven representatives for the next round of talks, Euronews reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "European leaders reject 'Yalta 2.0' for Ukraine after Trump meets Putin and Xi",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/19/european-leaders-reject-yalta-20-deal-for-ukraine-after-trump-meets-putin-and-xi"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Myanmar was found to be guilty of genocide on the Rohingya.",
+      "prose": "The International Court of Justice in The Hague ruled, by nine of its fifteen judges, that Myanmar committed genocide against the Rohingya in the 2017 military operations, in the case brought by The Gambia in 2019, Al Jazeera and Middle East Eye reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "What the ICJ genocide ruling means for the Rohingya people",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+        },
+        {
+          "title": "In historic judgment, ICJ concludes that Myanmar committed genocide against Rohingya Muslims",
+          "publisher": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/icj-historic-judgment-myanmar-genocide-rohingya-muslims"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Never before had the World Court found such a crime by a nation.",
+      "prose": "It was the first time the World Court had ruled that a state committed genocide; the judgment is final, and the court ordered Myanmar to halt violence, prosecute those responsible and make reparations, Al Jazeera reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "What the ICJ genocide ruling means for the Rohingya people",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Xi and Takaichi did not hold formal talks at the summit.",
+      "prose": "Japanese Prime Minister Sanae Takaichi ended her APEC schedule in Shenzhen without formal talks with Chinese President Xi Jinping, saying China is an important neighbour and that Japan's position on Taiwan had not changed, Jiji Press reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Japan's Takaichi Ends APEC Summit without Talks with China's Xi",
+          "publisher": "Jiji Press via Nippon.com",
+          "url": "https://www.nippon.com/en/articles/-/57742"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Deals worth tens of billions of dollars were won, said Prabowo.",
+      "prose": "Indonesian President Prabowo Subianto said at the APEC leaders' meeting in Shenzhen that Indonesia had secured 86.8 billion US dollars in potential investment and economic agreements through APEC-related events, Antara reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Prabowo says Indonesia secures US$86.8 billion in APEC deals",
+          "publisher": "Antara News",
+          "url": "https://en.antaranews.com/news/443875/prabowo-says-indonesia-secures-us868-billion-in-apec-deals"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Philippine senators heard from a witness for Sara Duterte.",
+      "prose": "On the 44th day of Vice President Sara Duterte's impeachment trial in the Philippine Senate, the defence presented a former Anti-Money Laundering Council investigator as a witness, the Philippine Daily Inquirer reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "LIVE UPDATES: Sara Duterte impeachment trial | Nov. 19, 2026",
+          "publisher": "Philippine Daily Inquirer",
+          "url": "https://www.inquirer.net/496267/live-updates-sara-duterte-impeachment-trial-nov-19-2026/"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Joblessness rose in Australia to four point nine in October.",
+      "prose": "Australia's unemployment rate rose to 4.9 percent in October from 4.7 percent in September, its highest in five years, as about 44,000 jobs were lost, according to Australian Bureau of Statistics figures reported by SBS News and ABC News.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Australia records shock unemployment rate | Evening Bulletin 19 November 2026",
+          "publisher": "SBS News",
+          "url": "https://www.sbs.com.au/news/podcast-episode/australia-records-shock-unemployment-rate-evening-bulletin-19-november-2026/h574bkpfi"
+        },
+        {
+          "title": "Federal politics: Taylor says Australia is in 'economic crisis' following rise in jobless rate",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-19/federal-politics-live-blog-migrant-workers/107400850"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "Thousands of cases of child abuse were recorded in Fiji.",
+      "prose": "Fiji recorded 9,929 reported cases of child abuse and neglect between 2020 and 2025, Permanent Secretary Selina Kuruleca said in a statement for the International Day for the Prevention of Child Abuse and Neglect, the Fiji Sun reported via PACNEWS.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "PACNEWS THREE, 19 NOVEMBER 2026",
+          "publisher": "Fiji Sun via PACNEWS (Islands Business)",
+          "url": "https://islandsbusiness.com/pacnews/pacnews-three-19-november-2026/"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Dutch and the Austrian embassies suffered damage in Kyiv.",
+      "prose": "Russian strikes on Kyiv killed at least one person and injured four, and damaged the Austrian and Dutch embassies without hurting their staff, Ukrainian and European officials said, according to Ritzau.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Russian strikes on Kyiv kill one and damage Austrian and Dutch embassies",
+          "publisher": "Ritzau via The Copenhagen Post",
+          "url": "https://cphpost.dk/2026-11-20/global/russian-strikes-on-kyiv-kill-one-and-damage-austrian-and-dutch-embassies/"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Missiles from Houthis struck in Riyadh and damaged a tower.",
+      "prose": "A Houthi missile attack damaged the tallest tower in Riyadh's financial district, causing material damage but no casualties, Saudi civil defence said, The New Arab reported.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Riyadh tower damaged in Houthi missile attack",
+          "publisher": "The New Arab",
+          "url": "https://www.newarab.com/news/riyadh-tower-damaged-houthi-missile-attack"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "Israel's strikes hit Lebanon's east and the south of the country.",
+      "prose": "Israeli airstrikes hit an area near Janta in eastern Lebanon, which Israel's military said housed a Hezbollah missile facility, as well as several places in the south, with no casualties reported in the east, according to Lebanon's National News Agency, Middle East Monitor reported.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli airstrikes hit eastern Lebanon, target homes, buildings in south",
+          "publisher": "Middle East Monitor",
+          "url": "https://www.middleeastmonitor.com/20261119-israeli-airstrikes-hit-eastern-lebanon-target-homes-buildings-in-south/"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Thursday, Somalia ordered away the Emirates' envoy.",
+      "prose": "Somalia's government ordered the United Arab Emirates' ambassador to leave within 72 hours and recalled its own ambassador, accusing the UAE of failing to respect its sovereignty, the Associated Press reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Somalia orders the UAE ambassador to leave as a diplomatic dispute escalates",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "Kenya picked an American group for the rare earths at Mrima.",
+      "prose": "Kenya's mining ministry named the US-based Frontier Minerals Consortium preferred bidder to develop the niobium and rare earths deposit at Mrima Hill in Kwale County, as rival bidders said they would challenge the decision, the Associated Press and Reuters reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Kenya picks US consortium for critical minerals project as residents seek answers",
+          "publisher": "Associated Press via WDIV ClickOnDetroit",
+          "url": "https://www.clickondetroit.com/business/2026/11/19/kenya-picks-us-consortium-for-critical-minerals-project-as-residents-seek-answers/"
+        },
+        {
+          "title": "Kenya picks US consortium to develop Mrima Hill critical minerals project",
+          "publisher": "Reuters via CNBC Africa",
+          "url": "https://www.cnbcafrica.com/2026/kenya-chooses-us-consortium-to-develop-critical-minerals-project"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Faye by decree put in force the budget the House had rejected.",
+      "prose": "Senegal's President Faye decided to implement by decree the revised 2026 budget that the National Assembly rejected on November 3, in a standoff that threatens a new IMF programme, his office said, according to Reuters.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Senegal's Faye implements budget changes by decree amid impasse with parliament",
+          "publisher": "Reuters via Sowetan",
+          "url": "https://www.sowetan.co.za/news/africa/2026-11-19-senegals-faye-implements-budget-changes-by-decree-amid-impasse-with-parliament/"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Cuts to the aid for deminers imperil a mine-free Zimbabwe.",
+      "prose": "The HALO Trust said it had destroyed 250,000 landmines in Zimbabwe since 2013 but that aid cuts threaten the goal of a mine-free country by 2030, with 4 percent of the land still contaminated, AFP reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Target for land mine-free Zimbabwe by 2030 threatened by aid cuts",
+          "publisher": "AFP via Arab News",
+          "url": "https://www.arabnews.com/world/target-for-land-mine-free-zimbabwe-by-2030-threatened-by-aid-cuts-3013010"
+        },
+        {
+          "title": "HALO Zimbabwe clears its 250,000th landmine",
+          "publisher": "The HALO Trust",
+          "url": "https://www.halotrust.org/news/250-000-landmines-destroyed-in-zimbabwe/"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "Haiti's forces battled the gangs for the road to the southward.",
+      "prose": "Haiti's armed forces launched an operation to retake from gangs the corridor linking the capital to the west and south of the country, and police said at least 34 suspected gang members were killed in Martissant, the Associated Press reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Heavy fighting erupts in Haiti as armed forces fight gangs to regain control of key corridor",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/International/wireStory/heavy-fighting-erupts-haiti-armed-forces-fight-gangs-138295678"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "After the outages, Cairncross was ousted as cyber director.",
+      "prose": "Sean Cairncross was removed as US national cyber director after a wave of technology outages, with Pentagon chief information officer Kirsten Davies taking over the role, Forbes and Engadget reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Top White House Cybersecurity Official Ousted Amid Recent Wave Of Tech Outages",
+          "publisher": "Forbes",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/20/top-white-house-cybersecurity-official-ousted-amid-recent-wave-of-tech-outages/"
+        },
+        {
+          "title": "The Trump administration has replaced its cybersecurity chief",
+          "publisher": "Engadget",
+          "url": "https://www.engadget.com/2322705/the-trump-administration-has-replaced-its-cybersecurity-chief/"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Stocks fell a sixth straight day, and the Dow shed more than a thousand.",
+      "prose": "The S&P 500 fell 2 percent for its sixth straight loss and the Dow Jones Industrial Average dropped 1,101 points as AI stocks kept falling, the Associated Press reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "How major US stock indexes fared Thursday 11/19/2026",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-11192026-138303454"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Rising in trading, Anthropic was valued at over a trillion.",
+      "prose": "Anthropic's shares closed their first day of trading on the Nasdaq at 97.17 dollars, 17.1 percent above the 83-dollar IPO price, giving the company a market value of 1.27 trillion dollars, Forbes reported, after what CBS News called the largest IPO in history.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17%",
+          "publisher": "Forbes",
+          "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/"
+        },
+        {
+          "title": "Anthropic set for Nasdaq trading debut after completing largest IPO in history",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "Mention of fossil fuels was dropped from the draft in Antalya.",
+      "prose": "A revised draft deal at the COP31 climate talks in Antalya, Türkiye, removed references to fossil fuels and a proposed figure for adaptation finance, while Australia's Chris Bowen, who leads the negotiations, called it the best basis for agreement, Climate Home News and RTÉ reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "COP31 Bulletin Day 10: New draft keeps electrification goal but drops fossil fuel references",
+          "publisher": "Climate Home News",
+          "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/"
+        },
+        {
+          "title": "COP31 draft climate deal removes mention of fossil fuels",
+          "publisher": "RTÉ",
+          "url": "https://www.rte.ie/news/world/2026/1119/1599773-cop31-thursday/"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Grand Theft Auto the Sixth was released to the gamers on Thursday.",
+      "prose": "Rockstar's \"Grand Theft Auto VI\" was released worldwide, starting at midnight in New Zealand, after 13 years in development, and Sensor Tower estimated more than 17 million copies sold, Reuters and AFP reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
+          "publisher": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/gamers-get-ready-to-enter-vice-city-as-grand-theft-auto-vi-begins-globalrollout-5035485"
+        },
+        {
+          "title": "Across the world, gamers dive into 'Grand Theft Auto VI'",
+          "publisher": "AFP via Insider Paper",
+          "url": "https://insiderpaper.com/across-the-world-gamers-dive-into-grand-theft-auto-vi/"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "Forty-eight teams began the World Cup for juniors in Doha.",
+      "prose": "The FIFA Under-17 World Cup opened in Doha with 48 teams, and hosts Qatar beat Panama 2-0 in their first match, the Qatar News Agency and KUNA reported.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Qatar beat Panama 2-0 in U-17 World Cup opener",
+          "publisher": "QNA via Qatar Tribune",
+          "url": "https://www.qatar-tribune.com/article/265464/latest-news/qatar-beat-panama-2-0-in-u-17-world-cup-opener"
+        },
+        {
+          "title": "FIFA U-17 World Cup kicks off in Doha with 48 teams",
+          "publisher": "KUNA via Kuwait Times",
+          "url": "https://kuwaittimes.com/article/54032/sports/fifa-u-17-world-cup-kicks-off-in-doha-with-48-teams/"
+        }
+      ]
+    }
+  ]
+}
