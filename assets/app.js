@@ -1,12 +1,16 @@
 /* World History reader: one verse per full-screen page.
-   Swipe up for the next verse, down for the previous one. Tap a verse to see
-   the plain-prose meaning and its source. Keys and the mouse wheel also work. */
+   Swipe up for the next verse, down for the previous one.
+   Swipe left for the next chapter, right for the previous one.
+   Tap a verse to see the plain-prose meaning and its source.
+   Tap the reference at the top (e.g. "Longfellow 3:7") to open the contents.
+   Keys and the mouse wheel also work. */
 (function () {
   "use strict";
 
   var stage = document.getElementById("stage");
   var POS_KEY = "world-history:pos";
 
+  var books = [];      // {name, year, person, lived, first, last} (chapter indexes)
   var chapters = [];   // flattened {book, year, n, date, verses, path, offset}
   var total = 0;       // total verses; position `total` is the closing page
   var pos = 0;
@@ -39,7 +43,7 @@
       if (chapters[mid].offset <= g) lo = mid; else hi = mid - 1;
     }
     var c = chapters[lo];
-    return { chapter: c, verse: g - c.offset + 1 };
+    return { chapter: c, index: lo, verse: g - c.offset + 1 };
   }
 
   function refString(g) {
@@ -60,10 +64,10 @@
     return -1;
   }
 
-  function longDate(iso) {
-    return new Date(iso + "T12:00:00").toLocaleDateString("en-US", {
-      weekday: "long", month: "long", day: "numeric", year: "numeric"
-    });
+  function longDate(iso, noYear) {
+    var opts = { weekday: "long", month: "long", day: "numeric" };
+    if (!noYear) opts.year = "numeric";
+    return new Date(iso + "T12:00:00").toLocaleDateString("en-US", opts);
   }
 
   function el(tag, cls, text) {
@@ -96,11 +100,12 @@
 
     var l = locate(g);
     var c = l.chapter;
-    ref.innerHTML = "";
-    ref.appendChild(document.createTextNode(c.book + " " + c.n + ":" + l.verse));
+    ref.textContent = c.book + " " + c.n + ":" + l.verse;
+    ref.setAttribute("role", "button");
+    ref.setAttribute("aria-label", c.book + " chapter " + c.n + ", verse " + l.verse + ". Open contents");
     foot.textContent = longDate(c.date);
     page.classList.add("loading");
-    verse.textContent = " ";
+    verse.textContent = " ";
 
     loadChapter(c.path).then(function (data) {
       var v = data.verses[l.verse - 1];
@@ -135,6 +140,7 @@
   }
 
   function height() { return window.innerHeight; }
+  function width() { return window.innerWidth; }
 
   function place(offset, animate) {
     var h = height();
@@ -148,12 +154,13 @@
 
   function exists(g) { return g >= 0 && g <= total && !(total === 0 && g > 0); }
 
-  function build() {
+  // Rebuild the three pages around `pos`. `center` reuses an already-made page.
+  function build(center) {
     stage.innerHTML = "";
     pages = {};
     [-1, 0, 1].forEach(function (k) {
       if (exists(pos + k)) {
-        pages[k] = makePage(pos + k);
+        pages[k] = (k === 0 && center) ? center : makePage(pos + k);
         stage.appendChild(pages[k]);
       }
     });
@@ -167,6 +174,7 @@
     if (history.replaceState) history.replaceState(null, "", "#" + ref);
   }
 
+  // Next or previous verse (vertical).
   function go(dir) {
     if (busy || !pages[dir]) { place(0, true); return; }
     busy = true;
@@ -189,39 +197,190 @@
     }, 330);
   }
 
+  // First verse of the next (dir 1) or previous (dir -1) chapter, or -1.
+  // Past the last chapter is the closing page; before the first is nothing.
+  function chapterTarget(dir) {
+    if (total === 0) return -1;
+    var i = pos >= total ? chapters.length : locate(pos).index;
+    var j = i + dir;
+    if (j < 0) return -1;
+    if (j >= chapters.length) return pos >= total ? -1 : total;
+    return chapters[j].offset;
+  }
+
+  // Slide sideways to position g. dir 1 slides in from the right.
+  function jumpTo(g, dir) {
+    if (busy || g < 0 || !exists(g)) { place(0, true); return; }
+    if (g === pos) { place(0, true); return; }
+    busy = true;
+    var w = width();
+    var incoming = makePage(g);
+    incoming.style.transform = "translate3d(" + (dir * w) + "px,0,0)";
+    stage.appendChild(incoming);
+    incoming.getBoundingClientRect(); // commit the start position before animating
+    incoming.classList.add("animate");
+    incoming.style.transform = "translate3d(0,0,0)";
+    if (pages[0]) {
+      pages[0].classList.remove("open");
+      pages[0].classList.add("animate");
+      pages[0].style.transform = "translate3d(" + (-dir * w) + "px,0,0)";
+    }
+    setTimeout(function () {
+      pos = g;
+      build(incoming);
+      remember();
+      busy = false;
+    }, 330);
+  }
+
+  function chapter(dir) {
+    var g = chapterTarget(dir);
+    if (g < 0) { nudge(dir); return; }
+    jumpTo(g, dir);
+  }
+
+  // A small bounce when there is no chapter in that direction.
+  function nudge(dir) {
+    if (busy || !pages[0]) return;
+    var p = pages[0];
+    p.classList.add("animate");
+    p.style.transform = "translate3d(" + (-dir * 24) + "px,0,0)";
+    setTimeout(function () { place(0, true); }, 140);
+  }
+
+  // --- contents ---------------------------------------------------------------
+  var toc = el("div", "toc");
+  toc.hidden = true;
+  var tocBackdrop = el("div", "toc-backdrop");
+  var tocSheet = el("nav", "toc-sheet");
+  tocSheet.setAttribute("aria-label", "Contents");
+  var tocList = el("div", "toc-list");
+  tocSheet.appendChild(el("div", "toc-grip"));
+  tocSheet.appendChild(el("h2", "toc-title", "Contents"));
+  tocSheet.appendChild(tocList);
+  tocSheet.appendChild(el("p", "toc-hint", "Swipe left or right on a verse to change chapters."));
+  toc.appendChild(tocBackdrop);
+  toc.appendChild(tocSheet);
+  document.body.appendChild(toc);
+
+  function tocOpen() { return !toc.hidden; }
+
+  function renderContents() {
+    tocList.innerHTML = "";
+    var current = pos < total ? locate(pos).index : -1;
+    var currentLink = null;
+    books.forEach(function (b) {
+      var sec = el("section", "toc-book");
+      var h = el("h3", null, b.name);
+      h.appendChild(el("span", "toc-year", String(b.year)));
+      sec.appendChild(h);
+      if (b.person) {
+        sec.appendChild(el("p", "toc-namesake", b.person + (b.lived ? ", " + b.lived : "")));
+      }
+      var ol = el("ol");
+      for (var i = b.first; i <= b.last; i++) {
+        var c = chapters[i];
+        var li = el("li");
+        var a = el("a");
+        a.href = "#" + c.book + "/" + c.n + "/1";
+        a.setAttribute("data-g", c.offset);
+        a.appendChild(el("span", "toc-n", String(c.n)));
+        a.appendChild(el("span", "toc-date", longDate(c.date, true)));
+        a.appendChild(el("span", "toc-count", c.verses + " verses"));
+        if (i === current) { a.classList.add("current"); a.setAttribute("aria-current", "true"); currentLink = a; }
+        li.appendChild(a);
+        ol.appendChild(li);
+      }
+      sec.appendChild(ol);
+      tocList.appendChild(sec);
+    });
+    return currentLink;
+  }
+
+  function openContents() {
+    if (busy || chapters.length === 0 || tocOpen()) return;
+    if (pages[0]) pages[0].classList.remove("open");
+    var current = renderContents();
+    toc.hidden = false;
+    if (current) current.scrollIntoView({ block: "center" });
+    toc.getBoundingClientRect();
+    toc.classList.add("open");
+  }
+
+  function closeContents() {
+    if (!tocOpen()) return;
+    toc.classList.remove("open");
+    setTimeout(function () { toc.hidden = true; }, 260);
+  }
+
+  tocBackdrop.addEventListener("click", closeContents);
+  tocList.addEventListener("click", function (e) {
+    var a = e.target.closest && e.target.closest("a[data-g]");
+    if (!a) return;
+    e.preventDefault();
+    var g = +a.getAttribute("data-g");
+    closeContents();
+    if (g !== pos) jumpTo(g, g > pos ? 1 : -1);
+  });
+
   // --- gestures -----------------------------------------------------------
-  var startY = null, startT = 0, dy = 0, moved = false;
+  var startX = null, startY = null, startT = 0, dx = 0, dy = 0;
+  var axis = null, downTarget = null;
 
   stage.addEventListener("pointerdown", function (e) {
     if (busy) return;
+    startX = e.clientX;
     startY = e.clientY;
     startT = performance.now();
-    dy = 0;
-    moved = false;
+    dx = dy = 0;
+    axis = null;
+    downTarget = e.target;
     try { stage.setPointerCapture(e.pointerId); } catch (err) {}
   });
 
   stage.addEventListener("pointermove", function (e) {
     if (startY === null || busy) return;
+    dx = e.clientX - startX;
     dy = e.clientY - startY;
-    if (Math.abs(dy) > 6) moved = true;
-    var d = dy;
-    if ((d < 0 && !pages[1]) || (d > 0 && !pages[-1])) d *= 0.28;
-    place(d, false);
+    if (!axis && (Math.abs(dx) > 8 || Math.abs(dy) > 8)) {
+      axis = Math.abs(dx) > Math.abs(dy) ? "x" : "y";
+    }
+    if (axis === "y") {
+      var d = dy;
+      if ((d < 0 && !pages[1]) || (d > 0 && !pages[-1])) d *= 0.28;
+      place(d, false);
+    } else if (axis === "x" && pages[0]) {
+      var x = dx;
+      if (chapterTarget(x < 0 ? 1 : -1) < 0) x *= 0.28;
+      pages[0].classList.remove("animate");
+      pages[0].style.transform = "translate3d(" + x + "px,0,0)";
+    }
   });
 
-  function end(e) {
+  function end() {
     if (startY === null) return;
     var dt = Math.max(performance.now() - startT, 1);
-    var v = dy / dt;
-    var h = height();
     startY = null;
-    if (!moved) {
-      var link = e.target && e.target.closest && e.target.closest("a");
+    if (!axis) {
+      var t = downTarget;
+      if (t && t.closest && t.closest(".ref") && pages[0] && !pages[0].classList.contains("end")) {
+        openContents();
+        return;
+      }
+      var link = t && t.closest && t.closest("a");
       if (link && pages[0] && pages[0].classList.contains("open")) return;
       if (pages[0] && !pages[0].classList.contains("end")) pages[0].classList.toggle("open");
       return;
     }
+    if (axis === "x") {
+      var vx = dx / dt, w = width();
+      if ((dx < -w * 0.18 || vx < -0.45) && chapterTarget(1) >= 0) jumpTo(chapterTarget(1), 1);
+      else if ((dx > w * 0.18 || vx > 0.45) && chapterTarget(-1) >= 0) jumpTo(chapterTarget(-1), -1);
+      else place(0, true);
+      return;
+    }
+    var v = dy / dt;
+    var h = height();
     if ((dy < -h * 0.16 || v < -0.45) && pages[1]) go(1);
     else if ((dy > h * 0.16 || v > 0.45) && pages[-1]) go(-1);
     else place(0, true);
@@ -229,20 +388,40 @@
   stage.addEventListener("pointerup", end);
   stage.addEventListener("pointercancel", function () { startY = null; place(0, true); });
 
-  var wheelAcc = 0, wheelTimer = null;
+  // Links in the gloss open even though the stage captures the pointer.
+  stage.addEventListener("click", function (e) {
+    var link = downTarget && downTarget.closest && downTarget.closest(".gloss a");
+    if (link && e.target !== link && pages[0] && pages[0].classList.contains("open")) {
+      window.open(link.href, "_blank", "noopener");
+    }
+  });
+
+  var wheelY = 0, wheelX = 0, wheelTimer = null;
   window.addEventListener("wheel", function (e) {
+    if (tocOpen()) return; // let the contents scroll
     e.preventDefault();
     if (busy) return;
-    wheelAcc += e.deltaY;
+    wheelY += e.deltaY;
+    wheelX += e.deltaX;
     clearTimeout(wheelTimer);
-    wheelTimer = setTimeout(function () { wheelAcc = 0; }, 160);
-    if (wheelAcc > 40) { wheelAcc = 0; go(1); }
-    else if (wheelAcc < -40) { wheelAcc = 0; go(-1); }
+    wheelTimer = setTimeout(function () { wheelY = wheelX = 0; }, 160);
+    if (Math.abs(wheelX) > Math.abs(wheelY)) {
+      if (wheelX > 80) { wheelX = wheelY = 0; chapter(1); }
+      else if (wheelX < -80) { wheelX = wheelY = 0; chapter(-1); }
+    } else if (wheelY > 40) { wheelX = wheelY = 0; go(1); }
+    else if (wheelY < -40) { wheelX = wheelY = 0; go(-1); }
   }, { passive: false });
 
   window.addEventListener("keydown", function (e) {
+    if (tocOpen()) {
+      if (e.key === "Escape" || e.key === "c") { e.preventDefault(); closeContents(); }
+      return;
+    }
     if (["ArrowDown", "PageDown", " ", "j"].indexOf(e.key) >= 0) { e.preventDefault(); go(1); }
     else if (["ArrowUp", "PageUp", "k"].indexOf(e.key) >= 0) { e.preventDefault(); go(-1); }
+    else if (["ArrowRight", "l"].indexOf(e.key) >= 0) { e.preventDefault(); chapter(1); }
+    else if (["ArrowLeft", "h"].indexOf(e.key) >= 0) { e.preventDefault(); chapter(-1); }
+    else if (e.key === "c") { e.preventDefault(); openContents(); }
     else if (e.key === "Enter" && pages[0]) pages[0].classList.toggle("open");
   });
 
@@ -258,11 +437,16 @@
     .then(function (r) { return r.json(); })
     .then(function (index) {
       index.books.forEach(function (b) {
+        var first = chapters.length;
         b.chapters.forEach(function (c) {
           chapters.push({ book: b.name, year: b.year, n: c.n, date: c.date,
                           verses: c.verses, path: c.path, offset: total });
           total += c.verses;
         });
+        if (chapters.length > first) {
+          books.push({ name: b.name, year: b.year, person: b.person, lived: b.lived,
+                       first: first, last: chapters.length - 1 });
+        }
       });
       var g = parseRef(location.hash);
       if (g < 0) g = parseRef(store(POS_KEY));

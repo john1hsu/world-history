@@ -9,8 +9,10 @@ A history of the world, written one day at a time, beginning **16 November 2026*
   commits it here.
 
 Read it on your phone: **https://john1hsu.github.io/world-history/**.
-Swipe up for the next verse and down for the previous one. Tap a verse to see its plain-prose
-meaning and source.
+Swipe up for the next verse and down for the previous one. Swipe left for the next chapter and
+right for the previous one. Tap a verse to see its plain-prose meaning and source, and tap the
+reference at the top (*Longfellow 3:7*) to open the contents and jump to any chapter.
+On a keyboard: ↑/↓ for verses, ←/→ for chapters, `c` for contents.
 
 ## Layout
 
