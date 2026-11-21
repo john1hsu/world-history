@@ -1,0 +1,485 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 5,
+  "date": "2026-11-20",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Three of the bridges of Kyiv were struck by the missiles of Russia.",
+      "prose": "Russian overnight missile strikes hit three bridges over the Dnipro in Kyiv, the Podilsko-Voskresenskyi, Darnytskyi and Pivdennyi, Mayor Vitali Klitschko said, hours after Vladimir Putin vowed a painful response to Ukraine's strikes on the bridge linking Crimea to Russia, Reuters and ABC News reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Eight killed as Russian missile strikes hit Kyiv bridges amid escalating attacks",
+          "publisher": "Reuters via ThePrint",
+          "url": "https://theprint.in/world/eight-killed-as-russian-missile-strikes-hit-kyiv-bridges-amid-escalating-attacks/3104375/"
+        },
+        {
+          "title": "Russia delivers 'painful response' to Ukraine for Crimea bridge strike, killing eight",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Eight were killed in the strikes, and six of the dead were in Kyiv.",
+      "prose": "The Russian attacks killed eight people in Ukraine, six of them in Kyiv, Prime Minister Sergii Koretskyi said, and Kyiv authorities said an attack on a water utility killed three of its employees, according to Reuters; Reuters could not independently confirm the reports.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Eight killed as Russian missile strikes hit Kyiv bridges amid escalating attacks",
+          "publisher": "Reuters via ThePrint",
+          "url": "https://theprint.in/world/eight-killed-as-russian-missile-strikes-hit-kyiv-bridges-amid-escalating-attacks/3104375/"
+        },
+        {
+          "title": "Russia delivers 'painful response' to Ukraine for Crimea bridge strike, killing eight",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Eighty-four cruise missiles were launched, with the drones in their hundreds.",
+      "prose": "Ukraine's Air Force said Russia launched 84 cruise missiles, almost all of which were destroyed, an unspecified number of ballistic missiles and more than 400 attack drones, and officials reported blackouts as power infrastructure was targeted across the country.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Eight killed as Russian missile strikes hit Kyiv bridges amid escalating attacks",
+          "publisher": "Reuters via ThePrint",
+          "url": "https://theprint.in/world/eight-killed-as-russian-missile-strikes-hit-kyiv-bridges-amid-escalating-attacks/3104375/"
+        },
+        {
+          "title": "Russia delivers 'painful response' to Ukraine for Crimea bridge strike, killing eight",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Two were killed at the station in Lviv, and seven were wounded.",
+      "prose": "In western Ukraine, two people were killed and at least seven injured in an attack on Lviv's Sknyliv railway station, regional governor Maksym Kozytskyi said, according to Reuters.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Eight killed as Russian missile strikes hit Kyiv bridges amid escalating attacks",
+          "publisher": "Reuters via ThePrint",
+          "url": "https://theprint.in/world/eight-killed-as-russian-missile-strikes-hit-kyiv-bridges-amid-escalating-attacks/3104375/"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Objects from Russia, three of them, entered the airspace of Poland.",
+      "prose": "Polish Defence Minister Wladyslaw Kosiniak-Kamysz said three objects from Russia, likely two missiles and a drone, violated Polish airspace overnight, and that Poland would ask NATO for more support on its eastern flank, ABC News reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Russia delivers 'painful response' to Ukraine for Crimea bridge strike, killing eight",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Tallinn decided to close, for six months, the road links with Russia.",
+      "prose": "Estonia's government decided to suspend crossings at all five of its road border checkpoints with Russia for six months from 1 December on national security grounds, with rail freight continuing, and Prime Minister Kristen Michal said Russia's hostile activities showed no sign of abating, ERR and Meduza reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Estonia to close land border with Russia from December 1",
+          "publisher": "ERR News",
+          "url": "https://news.err.ee/1610201515/estonia-to-close-land-border-with-russia-from-december-1"
+        },
+        {
+          "title": "Estonia to close all road crossings with Russia",
+          "publisher": "Meduza",
+          "url": "https://meduza.io/en/news/2026/11/20/estonia-to-close-all-road-crossings-with-russia"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Britain and Europe, in Brussels, agreed to reset their relations.",
+      "prose": "At a summit in Brussels, the European Union and Britain concluded deals on a youth mobility scheme letting 100,000 young Europeans live and work in Britain for up to three years and vice versa, on food and plant safety rules and linking their emissions trading systems, which Prime Minister Andy Burnham said could add 0.5 per cent to Britain's economy, while Reform UK leader Nigel Farage accused Burnham of betraying Brexit, Al Jazeera and Euronews reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "'The deal is done': EU, UK agree to reset relations 10 years after Brexit",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
+        },
+        {
+          "title": "Furious Farage accuses Burnham of betraying Brexit as EU-UK summit gets underway",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/furious-farage-accuses-burnham-of-betraying-brexit-as-eu-uk-summit-gets-underway"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Twenty-five of the countries of Europe had protests on wages.",
+      "prose": "Protesters rallied in 25 European countries over living costs, wages, military spending and climate, with tens of thousands joining a general strike called by the CGIL union in more than 100 Italian cities and protests in 73 German towns and cities, Al Jazeera reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Protests held across Europe over wages, services, high living costs",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Jurf al-Sakhar was entered by forces from Baghdad on Friday.",
+      "prose": "Iraqi security forces with tanks and armoured vehicles entered Jurf al-Sakhar, south-west of Baghdad, a stronghold held by the Iran-backed Kataib Hezbollah since 2014, under a compromise deal reached late on Thursday, and Prime Minister Ali al-Zaidi called it the beginning of asserting state authority across Iraq, The National and Middle East Eye reported.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Iraq's Ali Al Zaidi says Jurf Al Sakhar is start of state asserting control",
+          "publisher": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/20/iraqi-security-forces-move-into-iran-backed-militia-stronghold-of-jurf-al-sakhar/"
+        },
+        {
+          "title": "Iraq security forces deploy in Kataeb Hezbollah stronghold following 'compromise' deal",
+          "publisher": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/iraq-security-forces-deploy-kataeb-hezbollah-stronghold-following-compromise-deal"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "Six were killed by Israeli strikes in the centre of Gaza.",
+      "prose": "Israeli strikes killed six Palestinians in central Gaza despite the ceasefire, four of them in an air strike near the Bureij refugee camp, Gaza's civil defence agency told AFP, while the Israeli military said it had targeted several militants.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Six Palestinians killed in Israeli strikes on Gaza, civil defence says",
+          "publisher": "AFP via Middle East Eye",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-gaza-civil-defence-says"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Lebanon's south saw Israeli attacks in four of its districts.",
+      "prose": "Israeli air strikes, artillery shelling and drone attacks hit towns in southern Lebanon, causing fires and damage, Lebanon's National News Agency said, according to Anadolu, which reported attacks across four districts despite a US-mediated framework agreement signed in June.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli attacks hit 4 districts in southern Lebanon, cause fires, damage",
+          "publisher": "Anadolu via Middle East Monitor",
+          "url": "https://www.middleeastmonitor.com/20261120-israeli-attacks-hit-4-districts-in-southern-lebanon-cause-fires-damage"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Ministers met in Dakar and called for action on smugglers.",
+      "prose": "At a regional ministerial conference in Dakar attended by 15 countries, International Organization for Migration chief Amy Pope and Senegal's Justice Minister Moussa Sarr called for action against migrant smuggling networks, cooperation between states and job creation, Africanews reported with AFP.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "UN, Senegal urge regional action to stop migrant traffickers",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/20/un-senegal-urge-regional-action-to-stop-migrant-traffickers/"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "Cyclone Akvan came ashore, and hundreds of thousands were moved out.",
+      "prose": "Cyclone Akvan crossed the coasts of northern Andhra Pradesh and southern Odisha near Gopalpur in eastern India, the India Meteorological Department said, after Odisha evacuated more than 300,000 people, and the state's disaster management minister said no major damage or loss of life had been reported so far, Outlook India reported, citing ANI.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Pakistan Delegation At SCO Meet, Congress Ahead In Rajasthan: What Made Headlines Today",
+          "publisher": "Outlook India",
+          "url": "https://www.outlookindia.com/national/breaking-news-india-world-live-updates-20-november-2026-cyclone-akvan-rajasthan-bhilwara-zp-panchayat-election-results"
+        },
+        {
+          "title": "Severe Cyclone Akvan triggers signal No. 3 at Bangladesh seaports, heavy rain alert",
+          "publisher": "The Financial Express (Bangladesh)",
+          "url": "https://thefinancialexpress.com.bd/environment/severe-cyclone-akvan-triggers-signal-no-3-at-bangladesh-seaports-heavy-rain-alert"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Malik of Pakistan came to Delhi, the first since the war.",
+      "prose": "Pakistan's climate change minister Musadik Malik arrived in New Delhi for a forum of the Shanghai Cooperation Organisation, becoming the first Pakistani federal minister to visit India since the four-day war of May 2025, though no bilateral meeting was announced, Al Jazeera and Outlook India reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Pakistan minister visits India for first time since 2025 war",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war"
+        },
+        {
+          "title": "Pakistan Delegation At SCO Meet, Congress Ahead In Rajasthan: What Made Headlines Today",
+          "publisher": "Outlook India",
+          "url": "https://www.outlookindia.com/national/breaking-news-india-world-live-updates-20-november-2026-cyclone-akvan-rajasthan-bhilwara-zp-panchayat-election-results"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "Shares fell steeply in Tokyo and Seoul in trading on Friday.",
+      "prose": "Asian stock markets fell steeply on Friday, with Japan's Nikkei down 4.9 per cent and South Korea's KOSPI down 5.61 per cent, according to market figures published by ABC News.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Australian investors miss out on Anthropic listing, ASX drops — as it happened",
+          "publisher": "ABC News (Australia)",
+          "url": "https://abc.net.au/news/2026-11-20/asx-markets-business-live-news-nov-20/107403768"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Xi hailed a total turnaround as he met Albanese.",
+      "prose": "Chinese President Xi Jinping told Australian Prime Minister Anthony Albanese at their meeting in Shenzhen, on the sidelines of the APEC summit, that relations between the two countries had seen a full turnaround despite differences, and Albanese said the relationship delivered prosperity for both, ABC News reported.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Xi Jinping declares 'complete turnaround' in China's relations with Australia",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222"
+        },
+        {
+          "title": "Federal minister plays down recession concerns despite economist warnings — as it happened",
+          "publisher": "ABC News (Australia)",
+          "url": "https://abc.net.au/news/2026-11-20/federal-politics-live-blog-recession-concerns/107407116"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Shares in Australia fell, with every sector declining.",
+      "prose": "Australia's ASX 200 index closed down 1.63 per cent, with all sectors lower, on a day when Australian investors were reported to have received only a small part of the Anthropic shares they sought, ABC News reported.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Australian investors miss out on Anthropic listing, ASX drops — as it happened",
+          "publisher": "ABC News (Australia)",
+          "url": "https://abc.net.au/news/2026-11-20/asx-markets-business-live-news-nov-20/107403768"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "Back at the White House, Trump called his ties with Putin fantastic.",
+      "prose": "At a White House news conference after a four-day trip to Asia, US President Donald Trump defended his ties with Xi Jinping and Vladimir Putin, calling his relationship with Putin fantastic and saying security guarantees for Ukraine could be discussed only after a deal, Euronews reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "Trump said Iran sought a deal, but had made no acceptable offer.",
+      "prose": "Trump said Iran wanted a deal but had not offered acceptable terms, accused Tehran of deception, and announced plans for heavy taxes on US companies building data centres abroad, without giving details, Euronews reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Stocks fell a seventh day, and the index was now in correction.",
+      "prose": "The S&P 500 fell 3.7 per cent to 6,910.39, its seventh straight loss and longest losing streak since 2020, closing more than 10 per cent below its October record and so in a correction, while the Dow fell 949.73 points, the Associated Press reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "publisher": "Associated Press via The Business Journal",
+          "url": "https://thebusinessjournal.com/sp-500-stock-market-selloff-nasdaq-ai-stocks/"
+        },
+        {
+          "title": "Stocks enter correction territory, driven by a deepening tech rout",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+        },
+        {
+          "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+          "publisher": "Fox Business",
+          "url": "https://foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Nasdaq fell more than five percent, and was down for the year now.",
+      "prose": "The Nasdaq composite fell 5.3 per cent to 22,617.73, erasing its gains for the year, as worries deepened over the value of artificial intelligence stocks, the Associated Press and Fox Business reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "publisher": "Associated Press via The Business Journal",
+          "url": "https://thebusinessjournal.com/sp-500-stock-market-selloff-nasdaq-ai-stocks/"
+        },
+        {
+          "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+          "publisher": "Fox Business",
+          "url": "https://foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "Shares in Nvidia sank by close to a seventh on Friday.",
+      "prose": "Nvidia shares closed down 13.8 per cent, having fallen in nine of the last 10 sessions, while Advanced Micro Devices fell 13.3 per cent and the PHLX Semiconductor Index 10.7 per cent, the Associated Press reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "publisher": "Associated Press via The Business Journal",
+          "url": "https://thebusinessjournal.com/sp-500-stock-market-selloff-nasdaq-ai-stocks/"
+        },
+        {
+          "title": "Stocks enter correction territory, driven by a deepening tech rout",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Six point seven, a quake shook Peru, with no damage reported.",
+      "prose": "A magnitude 6.7 earthquake struck central Peru on Friday evening, with its epicentre 30 kilometres north-west of the city of Junín at a depth of 129 kilometres, the Geophysical Institute of Peru said, and no damage had been recorded, according to El Universal and Infobae.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Fuerte sismo de magnitud 6,7 sacudió el centro de Perú este viernes",
+          "publisher": "El Universal (Colombia)",
+          "url": "https://www.eluniversal.com.co/mundo/2026/11/20/fuerte-sismo-de-magnitud-67-sacudio-el-centro-de-peru-este-viernes/"
+        },
+        {
+          "title": "Fuerte sismo asusta a peruanos: Temblor de 6.7 en Junín remeció gran parte del país",
+          "publisher": "Infobae",
+          "url": "https://www.infobae.com/peru/2026/11/21/fuerte-sismo-asusta-a-peruanos-temblor-de-67-en-junin-remecio-gran-parte-del-pais/"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "Nations divided, the climate talks ran over in Turkey.",
+      "prose": "The COP31 climate talks in Antalya, Turkey, ran past their scheduled close with nearly 200 nations divided over fossil fuels, finance and carbon capture, and COP31 President Murat Kurum promised a third draft on Saturday after a draft that omitted any mention of fossil fuels, AFP and the Associated Press reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Nations row over fossil fuels as COP31 goes into overtime",
+          "publisher": "AFP via Business Recorder",
+          "url": "https://www.brecorder.com/news/40450071/nations-row-over-fossil-fuels-as-cop31-goes-into-overtime"
+        },
+        {
+          "title": "Activists, leaders criticize COP31 climate talks as fossil fuels go unmentioned in draft deal",
+          "publisher": "Associated Press via PBS News",
+          "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
+        },
+        {
+          "title": "COP31 talks extended as countries seek final deal",
+          "publisher": "Hürriyet Daily News",
+          "url": "https://hurriyetdailynews.com/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651"
+        },
+        {
+          "title": "Cop31 heading for overtime thanks to bitter dispute over fossil fuels",
+          "publisher": "The Independent via Yahoo News",
+          "url": "https://www.yahoo.com/news/science/articles/cop31-heading-towards-overtime-thanks-125933463.html"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "text": "Panama vowed to object if the deal lacked money for climate.",
+      "prose": "Panama vowed to formally object to any final agreement lacking climate finance and a cap on oil production, and its minister Juan Carlos Navarro said the talks were being held hostage by a petroleum mafia, the Associated Press and AFP reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Activists, leaders criticize COP31 climate talks as fossil fuels go unmentioned in draft deal",
+          "publisher": "Associated Press via PBS News",
+          "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
+        },
+        {
+          "title": "Nations row over fossil fuels as COP31 goes into overtime",
+          "publisher": "AFP via Business Recorder",
+          "url": "https://www.brecorder.com/news/40450071/nations-row-over-fossil-fuels-as-cop31-goes-into-overtime"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "text": "Africa's envoys demanded justice; they came not for begging.",
+      "prose": "The African Group of Negotiators demanded concrete measures on climate justice at COP31, and its chair, Ghana's Environment Minister Zanetor Agyeman-Rawlings, said they had not come to beg, Africanews and AFP reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "African negotiators at COP31 demand concrete measures on climate justice",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/20/african-negotiators-at-cop31-demand-concrete-measures-on-climate-justice/"
+        },
+        {
+          "title": "Nations row over fossil fuels as COP31 goes into overtime",
+          "publisher": "AFP via Business Recorder",
+          "url": "https://www.brecorder.com/news/40450071/nations-row-over-fossil-fuels-as-cop31-goes-into-overtime"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "text": "Fiji's Tabuya, the minister, said that the draft was a setback.",
+      "prose": "Fiji's Minister for Environment and Climate Change, Lynda Tabuya, who chairs the Pacific small island states, rejected the COP31 draft as a major setback on mitigation and said they could not accept it, the Fiji Times reported via PACNEWS.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "PACNEWS TWO, 20 NOVEMBER 2026 ('We cannot accept it' – Fiji Climate Change Minister Tabuya rejects COP31 draft)",
+          "publisher": "Fiji Times via PACNEWS (Islands Business)",
+          "url": "https://islandsbusiness.com/pacnews/pacnews-two-20-november-2026/"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "text": "Juniors of Fiji were beaten six to none by Morocco.",
+      "prose": "Morocco beat Fiji 6-0 in their opening match of the FIFA Under-17 World Cup to go top of Group H, Africanews reported on Friday.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Morocco thrash Fiji 6-0 in FIFA U-17 World Cup opener",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/20/morocco-thrash-fiji-6-0-in-fifa-u-17-world-cup-opener/"
+        }
+      ]
+    },
+    {
+      "n": 29,
+      "text": "Simon, eight times a champion, died, the Scoring Apostle.",
+      "prose": "Peter June \"PJ\" Simon, the eight-time Philippine Basketball Association champion known as the Scoring Apostle, died at 46 on Friday after collapsing during a game in Davao, Tiebreaker Times and GMA News reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Magnolia great PJ Simon, 46, passes away",
+          "publisher": "Tiebreaker Times",
+          "url": "https://tiebreakertimes.com.ph/tbt/magnolia-great-pj-simon-46-passes-away/390440"
+        },
+        {
+          "title": "Who was PJ Simon? Remembering the 8-Time PBA champion",
+          "publisher": "GMA News",
+          "url": "https://www.gmanetwork.com/news/sports/basketball/1010268/who-was-pj-simon-remembering-the-8-time-pba-champion/story/"
+        }
+      ]
+    }
+  ]
+}
