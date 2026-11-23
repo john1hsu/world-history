@@ -1,0 +1,373 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 7,
+  "date": "2026-11-22",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Talks on the climate in Turkey were ended with no deal adopted.",
+      "prose": "The COP31 climate talks in Antalya, Turkey, ended on Sunday without an agreed deal, two days after their scheduled close, as summit president Murat Kurum told the closing session there was no consensus on the text.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "COP31 talks break down as EU rejects deal without reference to fossil fuels",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+        },
+        {
+          "title": "COP31 climate talks fail after EU and others reject final deal",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Missing were fossil fuels, so Ireland objected for Europe.",
+      "prose": "Ireland's climate minister Darragh O'Brien, speaking for the European Union presidency, said the bloc would not endorse a final text that made no mention of fossil fuels.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "COP31 talks break down as EU rejects deal without reference to fossil fuels",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+        },
+        {
+          "title": "COP31 climate talks fail after EU and others reject final deal",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Deeply disappointed by talks that had failed was Guterres.",
+      "prose": "United Nations Secretary-General Antonio Guterres said he was deeply disappointed that the summit ended without a deal.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Climate talks collapse without deal at Cop31 in Turkey",
+          "publisher": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/22/climate-talks-collapse-without-deal-at-cop31-in-turkey/"
+        },
+        {
+          "title": "Cop31 ends with no deal as longest climate summit ever collapses into disarray",
+          "publisher": "The Independent via Yahoo News",
+          "url": "https://uk.news.yahoo.com/cop31-fails-reach-climate-deal-124907367.html"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Bowen, Australia's minister, called the result disappointing.",
+      "prose": "Chris Bowen, the Australian minister who led the negotiations, called the outcome very disappointing.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "COP31 climate talks fail after EU and others reject final deal",
+          "publisher": "Euronews",
+          "url": "https://www.euronews.com/2026/11/22/cop31-climate-talks-fail-after-eu-and-others-reject-final-deal-proposal"
+        },
+        {
+          "title": "Cop31 ends with no deal as longest climate summit ever collapses into disarray",
+          "publisher": "The Independent via Yahoo News",
+          "url": "https://uk.news.yahoo.com/cop31-fails-reach-climate-deal-124907367.html"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Absent were delegates sent by Nigeria when it was over.",
+      "prose": "Nigeria's government delegation, the third-largest by registered participants on provisional figures, was absent from the summit's closing plenary, Premium Times reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "COP31: Nigeria absent at closing plenary",
+          "publisher": "Premium Times",
+          "url": "https://www.premiumtimesng.com/business/business-news/927305-cop31-nigeria-absent-at-closing-plenary.html"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Three at the least were killed when a drone struck a block in Dymer.",
+      "prose": "A Russian drone struck a five-storey apartment building in Dymer, near Kyiv, killing at least three people, with others feared trapped under the rubble, Ukrainian officials said.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "At Least 4 Killed in Russian Drone Attacks on Kyiv Region, Officials Say",
+          "publisher": "Reuters via The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/22/at-least-4-killed-in-russian-drone-attacks-on-kyiv-region-officials-say-a94345"
+        },
+        {
+          "title": "'Routine shopping trip turned tragedy' — Russia attacks Kyiv Oblast supermarket during working hours, killing 2, injuring at least 8",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/routine-shopping-trip-turned-tragedy-russia-attacks-kyiv-oblast-supermarket-during-working-hours-killing-2-injuring-at-least-8/"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Vyshneve's supermarket was struck, and at least two were killed there.",
+      "prose": "A drone struck a busy supermarket in the Vyshneve area of Kyiv Oblast on Sunday evening, killing at least two people and injuring eight, Governor Tymur Tkachenko said.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "'Routine shopping trip turned tragedy' — Russia attacks Kyiv Oblast supermarket during working hours, killing 2, injuring at least 8",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/routine-shopping-trip-turned-tragedy-russia-attacks-kyiv-oblast-supermarket-during-working-hours-killing-2-injuring-at-least-8/"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Finland's crews were fighting the fire on the freighter of Russia.",
+      "prose": "Emergency services were still fighting a fire on Sunday morning aboard the Russian cargo ship Sparta II, which drifted into Finnish waters after a drone strike in the Gulf of Finland, the Finnish Border Guard said.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Air alert sounds in Kaliningrad hours after an attack on a Russia-bound ship in the Gulf of Finland",
+          "publisher": "Associated Press via KSAT",
+          "url": "https://www.ksat.com/business/2026/11/22/air-alert-sounds-in-kaliningrad-as-finland-tries-to-extinguish-fire-aboard-russian-cargo-ship/"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Russia's corvette was hit by sea drones in port at Benghazi.",
+      "prose": "Suspected Ukrainian sea drones struck the Russian corvette Merkury at the Benghazi naval base in eastern Libya, severely damaging it and starting a fire, two Libyan military officials said.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/International/wireStory/suspected-drone-strike-hits-russian-vessel-libya-138359178"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "Fire, said Iranian media, broke out on two of the tankers.",
+      "prose": "Iranian media reported that two oil tankers caught fire in the Strait of Hormuz, and Iran's navy said the vessels had entered a restricted area east of the strait.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Strikes on Bahrain were condemned by Kuwait and Qatar and the Saudis.",
+      "prose": "Saudi Arabia, Kuwait and Qatar condemned Iran's latest attack on Bahrain, which Bahrain said injured two people and set fire to a civilian facility in Sitra.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Iran live updates: IRGC says Bahrain attacks targeted US Patriot sites",
+          "publisher": "ABC News",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Aimed at Riyadh, a drone of the Houthis was downed by the Saudis.",
+      "prose": "Saudi forces intercepted a Houthi drone aimed at Riyadh, military spokesman Colonel Turki al-Maliki said.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Iran live updates: IRGC says Bahrain attacks targeted US Patriot sites",
+          "publisher": "ABC News",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "Three were killed, said the medics, and four were wounded in Gaza.",
+      "prose": "Israeli attacks killed three Palestinians and wounded four others, including a child, in the Gaza Strip, medical sources told Anadolu, despite the ceasefire in place since October 2025.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli attacks kill 3 Gazans, injure 4 in latest ceasefire violation",
+          "publisher": "Anadolu Agency via A News",
+          "url": "https://www.anews.com.tr/middle-east/2026/11/22/israeli-attacks-kill-3-gazans-injure-4-in-latest-ceasefire-violation"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Four were killed as drones struck Khartoum and the towns that surround it.",
+      "prose": "Drone attacks blamed on the Rapid Support Forces killed four people in and around Khartoum and damaged a United Nations building, according to local reports and UN officials.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Drone attacks kill four near Sudan's capital, damage UN building",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "Ruto of Kenya met Tshisekedi at Oyo, in Congo.",
+      "prose": "Kenya's President William Ruto met Congolese President Felix Tshisekedi, their first face-to-face meeting since relations soured, at talks in Oyo convened by Republic of Congo President Denis Sassou-Nguesso, Kenyan media reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Kenya: Ruto Makes Unannounced Trip to Congo, Abruptly Ends Western Tour",
+          "publisher": "Capital FM via allAfrica",
+          "url": "https://allafrica.com/stories/202611230052.html"
+        },
+        {
+          "title": "Ruto Comes Face to Face With Tshisekedi for First Time Since Nairobi-Kinshasa Rift as Kenyan Leader Seeks Way Out of Regional Isolation",
+          "publisher": "Mwakilishi",
+          "url": "https://mwakilishi.com/news/2026-11-22/ruto-comes-face-to-face-with-tshisekedi-for-first-time-since-nairobi-kinshasa-rift"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Dozens were missing in fire at a factory west of Jakarta.",
+      "prose": "Firefighters brought under control early on Sunday a blaze at a confectionery factory in Serang, west of Jakarta, where authorities said 24 body bags had been recovered and the company listed 29 workers as missing.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Indonesia: Rescuers recover 24 body bags from burnt-out factory",
+          "publisher": "Euronews via Yahoo News",
+          "url": "https://www.yahoo.com/news/world/articles/indonesia-rescuers-recover-24-body-090953340.html"
+        },
+        {
+          "title": "Indonesian police remove 24 body bags from factory fire site",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Heavy rain fell, and the Thais were warned of floods in Pattani.",
+      "prose": "Thailand's Department of Disaster Prevention and Mitigation warned of flash and urban flooding in Mueang Pattani district as heavy rain continued in the south.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Flash flood warning for Mueang Pattani on November 22",
+          "publisher": "The Nation Thailand",
+          "url": "https://www.nationthailand.com/news/general/40073787"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "Artificial intelligence, Wong was to say, posed a challenge.",
+      "prose": "Australian Foreign Minister Penny Wong was preparing to describe artificial intelligence as a major foreign policy and national security challenge in a speech to parliament on Tuesday, the ABC reported.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Foreign Minister Penny Wong to elevate AI as national security challenge",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-22/federal-politics-penny-wong-foreign-policy-ai-threat/107414236"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "Leo remembered the people in drought across the Pacific.",
+      "prose": "At the Angelus in St Peter's Square, Pope Leo XIV prayed for the victims of conflicts and expressed his closeness to the people of Papua New Guinea and other Pacific countries hit by drought.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Pope Leo prays for victims of conflicts and calls for reconciliation and peace",
+          "publisher": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-appeals-drought-war-peace-conflict-young-people-poor-wyd.html"
+        },
+        {
+          "title": "Angelus, 22 November 2026, Solemnity of Our Lord Jesus Christ, King of the Universe",
+          "publisher": "The Holy See",
+          "url": "https://www.vatican.va/content/leo-xiv/en/angelus/2026/documents/20261122-angelus.html"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Bogota asked that X should suspend the account held by Petro.",
+      "prose": "Colombia's information technology ministry asked X to suspend the account of former president Gustavo Petro for possible incitement to violence, after he urged Colombians to demand President Abelardo de la Espriella's resignation, EFE reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "El Gobierno colombiano pide a X suspender la cuenta de Petro en esa red social",
+          "publisher": "EFE via Infobae",
+          "url": "https://www.infobae.com/america/agencias/2026/11/22/el-gobierno-colombiano-pide-a-x-suspender-la-cuenta-de-petro-en-esa-red-social/"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Hunger Games drew a hundred and twenty million in takings.",
+      "prose": "The Hunger Games: Sunrise on the Reaping opened to an estimated 120 million dollars in North America and 225 million dollars worldwide, according to studio estimates released on Sunday.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Resurgent 'Hunger Games' goes big at box office, despite 'Grand Theft Auto VI'",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/Entertainment/wireStory/resurgent-hunger-games-big-box-office-despite-competition-138361740"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "Liverpool routed United four goals to nothing at Anfield.",
+      "prose": "Liverpool beat Manchester United 4-0 at Anfield in Mauricio Pochettino's first match in charge of United, after defender Lenny Yoro was sent off in the eighth minute.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Thirty-five points to ten, San Francisco defeated the Vikings.",
+      "prose": "The San Francisco 49ers beat the Minnesota Vikings 35-10 in Mexico City, with Brock Purdy throwing three touchdown passes.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/brock-purdy-carves-vikings-3-td-passes-49ers-138368566"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "Wang won the Open in Hong Kong, defeating a Thai in the final.",
+      "prose": "China's Wang Zhiyi won the women's singles title at the Hong Kong Open, beating Thailand's Pornpawee Chochuwong 21-16, 21-11 in the final.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Wang Zhiyi Clinches Hong Kong Open Title Without Dropping a Game",
+          "publisher": "The Sentinel (Assam)",
+          "url": "https://www.sentinelassam.com/sports-news/wang-zhiyi-clinches-hong-kong-open-title-without-dropping-a-game"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "text": "Jackson, the Broncos star, had died, said his family and network.",
+      "prose": "Tom Jackson, the former Denver Broncos linebacker and longtime ESPN analyst, had died at 75, ESPN and his family announced on Sunday.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Tom Jackson, Broncos star and ESPN 'Sunday NFL Countdown' analyst, dead at 75",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/Entertainment/wireStory/tom-jackson-broncos-star-espn-sunday-nfl-countdown-138360147"
+        }
+      ]
+    }
+  ]
+}
