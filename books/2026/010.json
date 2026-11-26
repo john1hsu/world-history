@@ -1,0 +1,353 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 10,
+  "date": "2026-11-25",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Strikes on Hodeidah were made by the Saudi-led coalition.",
+      "prose": "The Saudi-led coalition said on Wednesday that it had struck the Houthis' operational capabilities at the Yemeni port of Hodeidah and destroyed targets in the northern governorates of Saada and Amran, The National reported.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Saudi-led coalition strikes Hodeidah port after Riyadh attack",
+          "publisher": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/25/saudi-led-coalition-strikes-hodeidah-port-after-riyadh-attack/"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Drones aimed at Ras Tanura were downed, the Saudis reported.",
+      "prose": "Coalition spokesman Major General Turki al-Malki said Saudi air defences intercepted and destroyed four drones targeting Ras Tanura, with no casualties according to an initial assessment, after the Houthis claimed an attack on the site.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Saudi-led coalition strikes Hodeidah port after Riyadh attack",
+          "publisher": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/25/saudi-led-coalition-strikes-hodeidah-port-after-riyadh-attack/"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Hundreds of thousands were driven from home, said Fletcher in Aden.",
+      "prose": "United Nations humanitarian chief Tom Fletcher arrived in Aden on Wednesday and said recent fighting had displaced 364,000 civilians, The National reported.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Saudi-led coalition strikes Hodeidah port after Riyadh attack",
+          "publisher": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/25/saudi-led-coalition-strikes-hodeidah-port-after-riyadh-attack/"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Israel killed a security chief, with his wife and his daughters.",
+      "prose": "An Israeli airstrike early on Wednesday killed a senior Hamas internal security official, his wife and two daughters in their home in Gaza City's Beach (Shati) refugee camp, Gaza's Hamas-run interior ministry and medics said, a day after Israel killed the head of Hamas's internal security; Israel's military said it had targeted several military operatives.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli strike kills Hamas official, his wife and children",
+          "publisher": "Reuters via Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-25-israeli-strike-kills-hamas-official-his-wife-and-children/"
+        },
+        {
+          "title": "Israeli strike kills Hamas official, his wife and children",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Two refineries burned, attacked by the forces of Kyiv.",
+      "prose": "Ukraine's General Staff said its forces struck the Syzran and Kuibyshev oil refineries in Russia's Samara Oblast overnight, setting off fires and damaging processing units and storage tanks.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Ukraine strikes 2 Russian oil refineries in massive attack on Samara Oblast, General Staff confirms",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Nine were killed and the wounded were fifty and nine, said officials.",
+      "prose": "Russian attacks across Ukraine over the past day killed nine people and injured 59, including a 12-year-old, local authorities said, while the energy company DTEK said an attack had halted power generation at one of its thermal power plants.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Russian attacks kill 9, injure 59 across Ukraine over past day, halt power generation at thermal power plant",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-59-across-ukraine-over-past-day-halt-power-generation-at-thermal-power-plant/"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Poland is planning a zone where no aircraft fly near the border.",
+      "prose": "Polish Deputy Defence Minister Cezary Tomczyk said Poland plans a no-fly zone extending more than ten kilometres from its border with Ukraine by early 2027, and Foreign Minister Radosław Sikorski said shooting down Russian missiles over Ukraine at Kyiv's request could count as self-defence.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Washington ruled out soldiers and bases, according to sources.",
+      "prose": "The Kyiv Independent reported, citing people familiar with the talks, that United States negotiators had privately ruled out sending troops or setting up military bases in Ukraine as part of post-war security guarantees.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Exclusive: US rules out troops, military bases in Ukraine under post-war security guarantees, falling short of Kyiv's expectations",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/exclusive-us-rules-out-troops-military-bases-in-ukraine-under-post-war-security-guarantees-falling-short-of-kyivs-expectations/"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Nearly five tons of lead explosive were blown up in barrels.",
+      "prose": "The US Army detonated nearly five tons of lead azide, held in 68 barrels, in two simultaneous controlled detonations on Wednesday morning at the Iowa Army Ammunition Plant in Middletown, Iowa, after delays and a legal challenge, and an Army officer said early indications suggested it had succeeded.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Army detonates 5-tons of toxic lead materials at Iowa plant following delays",
+          "publisher": "ABC News",
+          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "Stocks on Wall Street were mixed on the eve of the holiday weekend.",
+      "prose": "On the day before the Thanksgiving holiday the S&P 500 fell 0.3% after being down as much as 3.2%, the Nasdaq composite fell 0.6% and the Dow Jones Industrial Average rose 0.3%, while Nvidia fell 3.9%, the Associated Press reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "World shares push higher, while markets in U.S. will be closed for Thanksgiving",
+          "publisher": "Associated Press via BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/world-shares-push-higher-while-markets-in-us-will-be-closed-for-thanksgiving/"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Mexico's leader will write to Washington on extraditions.",
+      "prose": "Mexican President Claudia Sheinbaum said at her morning press conference that her government would send a diplomatic note to the United States after former television host Inés Gómez Mont, wanted in Mexico, was deported to Spain, and she questioned why many of Mexico's extradition requests had not been granted.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Sheinbaum marks Day Against Violence Toward Women, questions US over unfulfilled extraditions: Wednesday's mañanera recapped",
+          "publisher": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/politics/sheinbaum-us-extraditions-mananera-wednesday/"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Kospi in Seoul fell by more than six percent on the Wednesday.",
+      "prose": "South Korea's Kospi index fell 6.2% on Wednesday amid a slide in chip stocks, the Associated Press reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "World shares push higher, while markets in U.S. will be closed for Thanksgiving",
+          "publisher": "Associated Press via BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/world-shares-push-higher-while-markets-in-us-will-be-closed-for-thanksgiving/"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "Bangladesh offered its garment workers a rise in their wages.",
+      "prose": "The chairman of Bangladesh's garment wage board said a majority of the board had agreed to raise the monthly minimum wage from 12,500 taka to 17,500 taka, about 36%, after weeks of protests by workers who had demanded 30,000 taka, AFP reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "After weeks of protests, Bangladesh garment workers win 36% pay rise",
+          "publisher": "AFP via Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Nine were killed when floodwater swept through a gold mine in Java.",
+      "prose": "Nine people were confirmed dead and 17 others were believed trapped after a flood hit an unauthorized gold mine in Bogor regency, West Java, as 325 rescuers searched the flooded shafts on Wednesday, Indonesian officials said.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "A flood that hit an unauthorized gold mine in Indonesia left 9 dead, 17 believed trapped",
+          "publisher": "Associated Press via Yakima Herald-Republic",
+          "url": "https://www.yakimaherald.com/news/nation_and_world/world/3-dead-after-flood-hits-an-unauthorized-gold-mine-in-indonesia-23-miners-still-trapped/article_1694a7d7-da9e-59ed-b36c-436551854494.html"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "Solomon Islands signed a security pact with Australia.",
+      "prose": "Australian Prime Minister Anthony Albanese and Solomon Islands Prime Minister Matthew Wale signed a treaty in Canberra that rules out any foreign military base in the Solomons and makes Australia its primary security partner, with Australia committing 740 million Australian dollars over a decade, AFP reported.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Australia, Solomon Islands sign pact seen to thwart China",
+          "publisher": "AFP via The Manila Times",
+          "url": "https://www.manilatimes.net/2026/11/26/world/asia-oceania/australia-solomon-islands-sign-pact-seen-to-thwart-china/2478061"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Prices had climbed four point nine percent through the year in Australia.",
+      "prose": "The Australian Bureau of Statistics said the consumer price index rose 4.9% in the twelve months to October 2026, up from 4.3% in September, with transport costs up 10.6%.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Consumer Price Index, Australia, October 2026",
+          "publisher": "Australian Bureau of Statistics",
+          "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Newsrooms were silent a day in protest at threats to reporters.",
+      "prose": "Media outlets in the Central African Republic held a day without news, called by the Union of Central African Journalists, to protest intimidation of journalists after a demonstration outside Radio Ndeke Luka in Bangui.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "A day without news: Media outlets in CAR go dark to protest 'intimidation'",
+          "publisher": "Africanews",
+          "url": "https://www.africanews.com/2026/11/25/a-day-without-news-media-outlets-in-car-go-dark-to-protest-intimidation/"
+        },
+        {
+          "title": "Central African Media Outlets Stage One-Day News Blackout",
+          "publisher": "Voice of Nigeria",
+          "url": "https://von.gov.ng/central-african-media-outlets-stage-one-day-news-blackout/"
+        },
+        {
+          "title": "Journalists in Central African Republic boycott news over rising attacks",
+          "publisher": "Channel Africa",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/journalists-in-central-african-republic-boycott-news-over-rising-attacks/"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "First of the foreigners, Pakistan's astronaut went up to Tiangong.",
+      "prose": "Pakistani Wing Commander Muhammad Zeeshan Ali, a payload specialist on China's Shenzhou-24 mission, became the first foreign astronaut to board China's Tiangong space station, Dawn reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "'To the moon and beyond': PM says Shenzhou-24 mission 'living proof' of Pak-China friendship",
+          "publisher": "Dawn",
+          "url": "https://www.dawn.com/news/2047206"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "Progress was due at the station with food and with fuel on the Thursday.",
+      "prose": "NASA said the Russian Progress 97 cargo craft, carrying about three tons of food, fuel and supplies, was scheduled to dock at the International Space Station early on Thanksgiving Day, Thursday 26 November.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Crew Works Biomedical Research Day Before Thanksgiving Space Delivery",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/11/25/crew-works-biomedical-research-day-before-thanksgiving-space-delivery/"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Liverpool won by three goals to nothing at Bruges in the evening.",
+      "prose": "Liverpool beat Club Brugge 3-0 in the Champions League, with Alexander Isak scoring twice and Florian Wirtz once.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Champions League highlights and round-up: Liverpool and Barça win well, Roma end Paris' perfect record, Bayern beaten",
+          "publisher": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-22288f99d39c-d5631dd311d0-1000--champions-league-highlights-and-round-up-liverpool-and-bar/"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Barcelona defeated Sabah, with two goals from Gordon.",
+      "prose": "Barcelona won 4-1 at Sabah in Baku in the Champions League, with Anthony Gordon scoring twice.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Champions League highlights and round-up: Liverpool and Barça win well, Roma end Paris' perfect record, Bayern beaten",
+          "publisher": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-22288f99d39c-d5631dd311d0-1000--champions-league-highlights-and-round-up-liverpool-and-bar/"
+        },
+        {
+          "title": "Barcelona routs Sabah 4-1 in Champions League, PSG, Man United and Bayern Munich in action",
+          "publisher": "Associated Press via KSAT",
+          "url": "https://www.ksat.com/sports/2026/11/25/barcelona-routs-sabah-4-1-in-champions-league-psg-man-united-and-bayern-munich-in-action/"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "Bayern were beaten by Lille, two goals to one, in the evening.",
+      "prose": "Lille beat Bayern Munich 2-1 in the Champions League, and Paris Saint-Germain drew 2-2 with Roma, ending Paris's perfect record in the competition this season.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Champions League highlights and round-up: Liverpool and Barça win well, Roma end Paris' perfect record, Bayern beaten",
+          "publisher": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-22288f99d39c-d5631dd311d0-1000--champions-league-highlights-and-round-up-liverpool-and-bar/"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Hockey's officials said they would challenge the ruling on Russia.",
+      "prose": "The International Ice Hockey Federation said it would appeal to the Swiss Federal Tribunal against the Court of Arbitration for Sport ruling that allowed Russia's return to international hockey, citing concerns about the impartiality of two arbitrators.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "IIHF to appeal ruling allowing Russia's return to international hockey in Swiss court",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/iihf-to-appeal-ruling-allowing-russias-return-to-international-hockey-in-swiss-court/"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "Pete Edochie, who played Okonkwo, has died in Enugu.",
+      "prose": "Veteran Nigerian actor and broadcaster Pete Edochie, best known for playing Okonkwo in the television adaptation of Chinua Achebe's Things Fall Apart, died in Enugu early on Wednesday at the age of 79, his family said.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Nigeria: Nollywood Legend Pete Edochie Dies At 79",
+          "publisher": "allAfrica",
+          "url": "https://allafrica.com/stories/202611250178.html"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "text": "Samad Said, the poet, was buried at Bukit Kiara.",
+      "prose": "The Malaysian writer and National Laureate known as A Samad Said, who died on Tuesday at the age of 91, was laid to rest at the Bukit Kiara Muslim Cemetery in Kuala Lumpur, Bernama reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "National Laureate A. Samad Said laid to rest at Bukit Kiara",
+          "publisher": "Bernama via Malay Mail",
+          "url": "https://www.malaymail.com/news/malaysia/2026/11/25/national-laureate-a-samad-said-laid-to-rest-at-bukit-kiara/244702"
+        }
+      ]
+    }
+  ]
+}
