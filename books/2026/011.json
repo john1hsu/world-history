@@ -1,0 +1,353 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 11,
+  "date": "2026-11-26",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Moscow was readying strikes on the power grid, warned Zelenskyy.",
+      "prose": "President Volodymyr Zelenskyy said on Thursday that Russia was completing preparations for another major attack on Ukraine's energy and logistics infrastructure, citing Ukrainian intelligence.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Zelenskyy warns of imminent major Russian attack on Ukraine's power grid",
+          "publisher": "Associated Press via WSLS",
+          "url": "https://www.wsls.com/news/2026/11/26/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid/"
+        },
+        {
+          "title": "Russia prepares new mass attack on Ukraine's energy infrastructure, Zelensky says",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-prepares-new-mass-attack-on-ukraines-energy-infrastructure-zelensky-says/"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Drones, one hundred and thirteen, with missiles, were launched in the darkness.",
+      "prose": "Russia launched ballistic missiles and 113 drones at Ukraine overnight, and crews were restoring power in six regions, the Associated Press reported, citing Ukraine's air force.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Zelenskyy warns of imminent major Russian attack on Ukraine's power grid",
+          "publisher": "Associated Press via WSLS",
+          "url": "https://www.wsls.com/news/2026/11/26/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid/"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Kyiv said Pyongyang had halted the aid it was sending to Moscow.",
+      "prose": "Ukraine's military intelligence agency said North Korea had temporarily suspended military aid to Russia, including missile and artillery shell deliveries, over a diplomatic dispute.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Ukraine war latest: North Korea halts military aid to Russia, Ukrainian intelligence says",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Drones in Kuwait were downed, and their fragments killed two Italians.",
+      "prose": "Kuwait's defence ministry said it shot down Iranian drones and that falling debris killed two Italians, whom Italy's foreign ministry described as air-defence technicians.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
+          "publisher": "Associated Press via ClickOrlando",
+          "url": "https://www.clickorlando.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Blame was denied by Araghchi, who offered Rome his condolence.",
+      "prose": "Iranian Foreign Minister Abbas Araghchi denied that Iran was behind the attack in Kuwait and offered condolences to Italy's foreign minister, Antonio Tajani.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
+          "publisher": "Associated Press via ClickOrlando",
+          "url": "https://www.clickorlando.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Tankers were hit by projectiles, and none of the sailors were injured.",
+      "prose": "The UK Maritime Trade Operations centre said two tankers were struck by unknown projectiles, one east of Oman and one west of Dubai, and that their crews were safe.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
+          "publisher": "Associated Press via ClickOrlando",
+          "url": "https://www.clickorlando.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Hospitals said ten were killed in Gaza by strikes and a shooting.",
+      "prose": "Five Israeli strikes and a shooting killed 10 Palestinians across Gaza, according to Shifa and Al-Aqsa Martyrs hospitals.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
+          "publisher": "Associated Press via ClickOrlando",
+          "url": "https://www.clickorlando.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Talks on a government, Eisenkot said, were moving at full speed.",
+      "prose": "Israeli opposition leader Gadi Eisenkot said efforts to form a new government were moving at full speed, ahead of a 6 December deadline.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Anti-Netanyahu bloc vows to swear in Israel's new government by end of week",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-26/eisenkot-vows-to-form-israeli-government-by-end-of-week/107429976"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Storms on Thanksgiving cancelled hundreds of flights through the country.",
+      "prose": "More than 360 flights were cancelled and over 460 delayed across the United States on Thanksgiving as a nor'easter hit the East Coast and a Pacific storm brought flood warnings to the West, Latin Times reported.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Thanksgiving Kicked Off With 300+ Flights Canceled and Macy's Parade Postponed by Storm",
+          "publisher": "Latin Times",
+          "url": "https://www.latintimes.com/thanksgiving-2026-flight-cancellations-macys-parade-postponed-601882"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "Macy's parade in New York was moved to the Saturday morning.",
+      "prose": "The 100th Macy's Thanksgiving Day Parade in New York, postponed because of forecast high winds and coastal flooding, was rescheduled for Saturday at 8:30 a.m.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC",
+          "publisher": "ABC7 New York",
+          "url": "https://abc7ny.com/story/will-macys-parade-balloons-fly-storm-wind-rain-puts-doubt/20078423/"
+        },
+        {
+          "title": "Thanksgiving Kicked Off With 300+ Flights Canceled and Macy's Parade Postponed by Storm",
+          "publisher": "Latin Times",
+          "url": "https://www.latintimes.com/thanksgiving-2026-flight-cancellations-macys-parade-postponed-601882"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Lead in the air of Middletown, Iowa, measured at zero.",
+      "prose": "The Environmental Protection Agency reported zero airborne lead in Middletown, Iowa, a day after the Army detonated nearly five tons of explosives there, and said it was analysing more than 1,000 samples.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "News Wrap: EPA reports 'zero' airborne lead in Iowa",
+          "publisher": "PBS News Hour",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-epa-reports-zero-airborne-lead-in-iowa"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Argentina's president will not be a guest of Lula's.",
+      "prose": "A Brazilian government source said Argentine President Javier Milei would not be invited to Luiz Inacio Lula da Silva's inauguration on 5 January, and that Brazil's ambassador would not return to Buenos Aires.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Argentina's Milei not invited to Lula inauguration amid tensions",
+          "publisher": "AFP via CP24",
+          "url": "https://www.cp24.com/news/world/2026/11/26/argentinas-milei-not-invited-to-lula-inauguration-amid-tensions/"
+        },
+        {
+          "title": "Brazil withdraws its ambassador to Argentina and will not invite Milei to Lula's inauguration",
+          "publisher": "MercoPress",
+          "url": "https://en.mercopress.com/2026/11/26/brazil-withdraws-its-ambassador-to-argentina-and-will-not-invite-milei-to-lula-s-inauguration"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "Shares rose in Europe and Asia, with Wall Street closed for Thanksgiving.",
+      "prose": "Stocks rose in Europe and Asia while US markets were closed for Thanksgiving, with Japan's Nikkei 225 up 0.9 per cent and Germany's DAX up 1.9 per cent in early trading, the Associated Press reported.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Global stocks rise and tech shares rebound as U.S. closes for Thanksgiving",
+          "publisher": "Associated Press via BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/global-stocks-rise-and-tech-shares-rebound-as-us-closes-for-thanksgiving/"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Tokyo called the tariffs regrettable, China opposed them.",
+      "prose": "Japan's government called planned new US tariffs on 14 countries regrettable, and China's Commerce Ministry said it opposed them and reserved the right to respond.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "News Wrap: EPA reports 'zero' airborne lead in Iowa",
+          "publisher": "PBS News Hour",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-epa-reports-zero-airborne-lead-in-iowa"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "Bank of Korea lifted its rate to three and a quarter.",
+      "prose": "The Bank of Korea raised its benchmark interest rate by 0.25 percentage points to 3.25 per cent and raised its growth forecasts, SBS reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Today's Major News (November 26, 2026)",
+          "publisher": "SBS News",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008864795"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Flowers were laid by the mourners a year from the Hong Kong inferno.",
+      "prose": "Mourners laid hundreds of bouquets at Wang Fuk Court in Hong Kong on the first anniversary of the fire that killed 168 people, while officials warned against acts of disorder, AFP reported.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Mourners mark Hong Kong fire anniversary, authorities warn against 'disorder'",
+          "publisher": "AFP via GMA News",
+          "url": "https://www.gmanetwork.com/news/topstories/world/1010871/mourners-mark-hong-kong-fire-anniversary-authorities-warn-against-disorder/story/"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Greenhouse emissions fell one point three percent in Australia.",
+      "prose": "Australia's annual climate statement showed greenhouse gas emissions fell 1.3 per cent in the year to June 2026, a pace ABC News reported was not fast enough to reach the 2035 target.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Australia's emissions fall but not fast enough to reach 2035 climate target",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-26/australia-emissions-fall-short-2035-climate-target/107418552"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "Votes, two million and more, had been cast in Victoria early.",
+      "prose": "More than 2.1 million Victorians had voted early by Thursday afternoon, ahead of Saturday's state election, ABC News reported.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Victorian election updates: Liberals unveil plan to partly privatise Melbourne's sewerage network",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-26/victorian-election-live-updates-labor-liberal-court-battle/107428608"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "Guinea-Bissau's vote has been postponed two years by the army.",
+      "prose": "Guinea-Bissau's military junta, led by transitional president General Horta Inta-a, postponed the presidential election by two years, to 26 November 2028, citing insufficient technical, material and financial conditions.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Guinea-Bissau Junta Delays Presidential Vote for 2 Years",
+          "publisher": "Deutsche Welle via allAfrica",
+          "url": "https://allafrica.com/stories/202611270135.html"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Kenya's court ruled a quarantine site for Ebola unlawful.",
+      "prose": "Kenya's High Court ruled that the government breached the constitution by allowing a US-backed Ebola quarantine facility at Laikipia Air Base, and ordered further work stopped until conditions were met.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Today in Africa — Nov. 26, 2026: Kenyan Court Rules Ebola Quarantine Facility Breached the Constitution; DR Congo Summons Uganda's Top Diplomat Over Military Chief's Posts",
+          "publisher": "OkayAfrica",
+          "url": "https://www.okayafrica.com/today-in-africa-nov-26-2026-kenyan-court-rules-ebola-quarantine-facility-breached-the-constitution-dr-congo-summons-ugandas-top-diplomat-over-military-chiefs-posts/1442300"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Fighting resumed in Congo between the army and rebels.",
+      "prose": "Fighting resumed on Thursday between Congo's army and CRP rebels in Iga-Barriere, north of Bunia, in an area hit by the Ebola outbreak, OkayAfrica reported.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Today in Africa — Nov. 26, 2026: Kenyan Court Rules Ebola Quarantine Facility Breached the Constitution; DR Congo Summons Uganda's Top Diplomat Over Military Chief's Posts",
+          "publisher": "OkayAfrica",
+          "url": "https://www.okayafrica.com/today-in-africa-nov-26-2026-kenyan-court-rules-ebola-quarantine-facility-breached-the-constitution-dr-congo-summons-ugandas-top-diplomat-over-military-chiefs-posts/1442300"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "Bears beat the Lions by four, with only seconds remaining.",
+      "prose": "The Chicago Bears beat the Detroit Lions 39-35 on Thanksgiving when Rome Odunze caught a six-yard touchdown pass from Caleb Williams with three seconds left.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Lions fall to Bears in final seconds of Thanksgiving thriller",
+          "publisher": "The Detroit News via Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/lions-fall-bears-final-seconds-213305704.html"
+        },
+        {
+          "title": "Thanksgiving tripleheader: What We Learned from Bears-Lions, Eagles-Cowboys, Chiefs-Bills",
+          "publisher": "NFL.com",
+          "url": "https://www.nfl.com/news/thanksgiving-tripleheader-what-we-learned-from-bears-lions-eagles-cowboys-chiefs-bills"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Four goals to nothing, the score as Benfica were beaten in Plzen.",
+      "prose": "Viktoria Plzen beat Benfica 4-0 in the Europa League, with two goals from Christophe Kabongo, UEFA reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Europa League Matchday 5 highlights and round-up: Bournemouth stay perfect, Milan and Juventus win from behind",
+          "publisher": "UEFA",
+          "url": "https://www.uefa.com/uefaeuropaleague/news/02ab-222a8b7281ee-613f6f283146-1000--europa-league-matchday-5-highlights-and-round-up-bournemou/"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "Talbott, a diplomat under Clinton, has died at eighty.",
+      "prose": "Strobe Talbott, the journalist who became deputy secretary of state under President Bill Clinton and later led the Brookings Institution, died at his home on Long Island aged 80, his family said.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "News Wrap: EPA reports 'zero' airborne lead in Iowa",
+          "publisher": "PBS News Hour",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-epa-reports-zero-airborne-lead-in-iowa"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "text": "Model Veruschka has died in Berlin at eighty and seven.",
+      "prose": "The German model Vera von Lehndorff, known as Veruschka and one of the first supermodels of the 1960s, died in Berlin this week aged 87, PBS News Hour reported.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "News Wrap: EPA reports 'zero' airborne lead in Iowa",
+          "publisher": "PBS News Hour",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-epa-reports-zero-airborne-lead-in-iowa"
+        }
+      ]
+    }
+  ]
+}
