@@ -1,0 +1,482 @@
+{
+  "book": "Longfellow",
+  "year": 2026,
+  "chapter": 12,
+  "date": "2026-11-27",
+  "verses": [
+    {
+      "n": 1,
+      "text": "Protest was lodged as Kuwait called in the Iranian envoy.",
+      "prose": "Kuwait's foreign ministry summoned Iran's ambassador, Mohammad Totonji, and handed him a protest note over what it called continued Iranian attacks, a day after a drone strike killed two Italians in Kuwait; Iranian Foreign Minister Abbas Araghchi denied involvement.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Kuwait's Foreign Ministry summons Iranian envoy, hands him protest note over continued Iranian attacks",
+          "publisher": "Kuwait Times",
+          "url": "https://kuwaittimes.com/article/54482/kuwait/kuwaits-foreign-ministry-summons-iranian-envoy-hands-him-protest-note-over-continued-iranian-attacks/"
+        },
+        {
+          "title": "Middle East tensions: Trump signals victory as Iran offers Kuwait drone probe",
+          "publisher": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Washington's aircraft disabled a ship near Iranian harbours.",
+      "prose": "US Central Command said one of its aircraft disabled the Palau-flagged merchant ship Pacific Archer in the Gulf of Oman after it tried to breach the US naval blockade of Iranian ports, and that the civilian crew was unharmed.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+          "publisher": "Associated Press via PBS News",
+          "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports"
+        },
+        {
+          "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Guards of Iran said a mine near Hormuz had blown up a tanker.",
+      "prose": "Iran's Revolutionary Guards navy said a tanker trying to pass through an unauthorised route near the Strait of Hormuz had struck a naval mine and exploded, a claim that could not be independently verified.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Tanker explodes after hitting naval mine in Strait of Hormuz, IRGC says",
+          "publisher": "Anadolu via Bernama",
+          "url": "https://bernama.com/en/world/news.php?id=2640527"
+        },
+        {
+          "title": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+          "publisher": "Associated Press via PBS News",
+          "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Houthis said that a Saudi strike killed eleven civilians.",
+      "prose": "Houthi-affiliated media said a Saudi air strike on a residential building in al-Turbah, south of the Yemeni city of Taiz, killed 11 civilians; the toll could not be independently verified and the Saudi-led coalition did not comment.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Saudi strike kills 11 civilians in Yemen's Taiz: Houthi media",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media"
+        },
+        {
+          "title": "Liveblog, November 27, 2026",
+          "publisher": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-november-27-2026/"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Eisenkot might be the first in rotation, reports were suggesting.",
+      "prose": "Israel's Channel 13 reported that Benjamin Netanyahu was preparing to say he would serve as the second prime minister in a rotation with Gadi Eisenkot, who was said to be sceptical and still aiming to swear in a government the following week.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "title": "Netanyahu reportedly ready to serve as second PM in rotation with Eisenkot",
+          "publisher": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-reportedly-ready-to-serve-as-second-pm-in-rotation-with-eisenkot/"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "text": "Rescuers said that a Russian attack killed seven in Nizhyn.",
+      "prose": "A Russian strike on businesses in Nizhyn, in Ukraine's Chernihiv region, killed seven people and injured seven, Ukraine's State Emergency Service said.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Russian attacks kill 10, injure 55 across Ukraine over past day as deadly strike hits Chernihiv Oblast businesses",
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-attacks-kill-10-injure-55-across-ukraine-over-past-day-as-deadly-strike-hits-chernihiv-oblast-businesses/"
+        },
+        {
+          "title": "Seven killed as rescue operation concludes after Russian attack on Nizhyn",
+          "publisher": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4189499-seven-killed-as-rescue-operation-concludes-after-russian-attack-on-nizhyn.html"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "text": "Putin could not be a friend, said Zelenskyy, and Moscow objected.",
+      "prose": "In a BBC interview broadcast on Friday, Ukrainian President Volodymyr Zelenskyy said Vladimir Putin could not be a friend and urged the United States to press him to end the invasion, and Kremlin spokesman Dmitry Peskov said Zelenskyy was insulting his counterpart.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Zelenskyy urges the U.S. to pressure Putin, calling Trump's 'my friend' remark strange",
+          "publisher": "Associated Press via PBS News",
+          "url": "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "text": "Truce on the Black Sea was offered by Kyiv for the export of foodstuffs.",
+      "prose": "Ukrainian Foreign Minister Andriy Sybiha said Kyiv had proposed a ceasefire in the Black Sea to allow food exports and was awaiting Russia's response, and thanked India, Turkey and Egypt for their mediation.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Ukraine proposes Black Sea ceasefire for food exports",
+          "publisher": "Radio Free Europe/Radio Liberty",
+          "url": "https://www.rferl.org/a/ukraine-black-sea-ceasefire-russia-shipping-exports/33907217.html"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "text": "Wall Street finished its best week in more than a year with a rally.",
+      "prose": "The S&P 500 rose 1.6% on Friday to 7,297.49, capping a 5.6% weekly gain that was its best week since April 2025, while the Dow Jones Industrial Average rose 1.2% and the Nasdaq composite 2.3%.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Stocks rally to give Wall Street its best week in more than a year",
+          "publisher": "Associated Press via Spectrum News",
+          "url": "https://spectrumlocalnews.com/us/snplus/business/2026/11/27/stocks-rally-wall-street-best-week-in-over-a-year"
+        },
+        {
+          "title": "Stock market today, Nov. 27: S&P 500 posts best week in 19 months as AI stocks rebound",
+          "publisher": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "text": "Mexico lodged a complaint at a hotline for tips from informants.",
+      "prose": "Mexican President Claudia Sheinbaum said Mexico had filed a formal complaint over an anonymous tip line launched by the US Drug Enforcement Administration for information on cartels in Sinaloa, calling it interference in Mexico's internal affairs.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Mexico files formal complaint over US DEA tip line",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649"
+        },
+        {
+          "title": "Mexico files formal complaint over DEA's Sinaloa tip lines: Friday's mañanera recapped",
+          "publisher": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/politics/mexico-files-formal-complaint-over-deas-sinaloa-tip-lines-fridays-mananera-recapped/"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "text": "Shares in Brazil surged as Lula selected a banker for finance.",
+      "prose": "Brazilian stocks surged and the real strengthened to 5.53 per dollar on Friday morning after veteran Bradesco banker Luiz Carlos Trabuco accepted President Luiz Inácio Lula da Silva's invitation to be finance minister in the term that begins on 5 January.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Lula's choice of Bradesco banker as Brazil's finance minister lifts markets",
+          "publisher": "Associated Press via ABC News",
+          "url": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032"
+        },
+        {
+          "title": "Banker Luiz Carlos Trabuco to be Brazil's new finance minister",
+          "publisher": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/en/economia/noticia/2026-11/banker-luiz-carlos-trabuco-be-brazils-new-finance-minister"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "text": "Carney in Yellowknife granted the highway a national status.",
+      "prose": "In Yellowknife, Canadian Prime Minister Mark Carney named the proposed 800-kilometre Mackenzie Valley Highway a project of national interest, the first such project in Canada's North.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Carney travels to Yellowknife for announcement on major initiative",
+          "publisher": "The Canadian Press via CP24",
+          "url": "https://www.cp24.com/news/canada/2026/11/27/carney-travels-to-yellowknife-for-announcement-on-major-initiative/"
+        },
+        {
+          "title": "Mackenzie Valley Highway listed as a project of national interest",
+          "publisher": "Yellowknifer",
+          "url": "https://yellowknifer.com/2026/11/27/mackenzie-valley-highway-listed-as-a-project-of-national-interest/"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "text": "Eight of the nine on board died when it crashed in Ayacucho.",
+      "prose": "Peru's defence ministry said eight of the nine people aboard an air force Mi-17 helicopter on a rescue mission were killed when it crashed in the VRAEM valley in the Ayacucho region, and that the pilot was the only survivor.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "Peru military helicopter crash kills eight, pilot survives",
+          "publisher": "AFP via Gulf News",
+          "url": "https://gulfnews.com/world/americas/peru-military-helicopter-crash-kills-eight-pilot-survives-1.500763788"
+        },
+        {
+          "title": "Eight killed in Peruvian military helicopter crash",
+          "publisher": "BBC via Yahoo News",
+          "url": "https://www.yahoo.com/news/world/articles/eight-killed-peruvian-military-helicopter-041921797.html"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "text": "Shares on the mainland surged as Beijing pledged to steady the markets.",
+      "prose": "Chinese stocks had their biggest one-day gains in about two years, with the tech-focused STAR 50 index up 15%, after a State Council meeting chaired by Premier Li Qiang called for state-backed investors to play a bigger role in stabilising the market.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "China stocks surge most in two years as Beijing vows stronger market support",
+          "publisher": "Reuters via The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/11/27/china-stocks-surge-most-in-two-years-as-beijing-vows-stronger-market-support"
+        },
+        {
+          "title": "China stocks surge most in two years",
+          "publisher": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-stocks-surge-most-two-081045333.html"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "text": "India's cabinet approved a bill to reserve seats for women.",
+      "prose": "India's Union Cabinet, chaired by Prime Minister Narendra Modi, approved a new constitutional amendment bill that, according to government sources, would link a 50% rise in Lok Sabha seats to reserving a third of seats in Parliament and state assemblies for women, ahead of a special sitting from 30 November.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "Cabinet clears fresh women's reservation bill with 50% seat rise formula",
+          "publisher": "Business Standard",
+          "url": "https://www.business-standard.com/amp/politics/cabinet-clears-fresh-women-s-reservation-bill-with-50-seat-rise-formula-126112701271_1.html"
+        },
+        {
+          "title": "India News Live Updates, November 27",
+          "publisher": "Outlook India",
+          "url": "https://www.outlookindia.com/national/india-news-live-updates-parliament-special-session-pm-modi-up-punjab-elections-2027-november-27"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "text": "Six of the fishermen sailed to the North, and the seventh defected.",
+      "prose": "South Korea's Unification Ministry said six North Korean fishermen found adrift off Ulleungdo island in early November had sailed back across the Northern Limit Line to a waiting North Korean vessel, while a seventh chose to stay in the South.",
+      "region": "Asia",
+      "sources": [
+        {
+          "title": "South Korea repatriates six North Koreans found adrift, one chooses to defect",
+          "publisher": "AFP via Malay Mail",
+          "url": "https://www.malaymail.com/news/world/2026/11/27/south-korea-repatriates-six-north-koreans-found-adrift-one-chooses-to-defect/244970"
+        },
+        {
+          "title": "South Korea sends rescued fishermen back to North",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "text": "Luxon was one seat short when the final count had been published.",
+      "prose": "Official results from New Zealand's Electoral Commission gave Luxon's National Party and its partners ACT and New Zealand First 65 of the 130 seats, one short of a majority, leaving the Opportunity Party's seven seats pivotal.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Unprecedented election delivers a tough deal for Luxon to seal",
+          "publisher": "1News",
+          "url": "https://www.1news.co.nz/2026/11/27/unprecedented-election-delivers-a-tough-deal-for-luxon-to-seal/"
+        },
+        {
+          "title": "National finishes on top ahead of Labour as final election result reshapes NZ's parliament",
+          "publisher": "PMN News",
+          "url": "https://pmn.co.nz/read/election/national-finishes-on-top-ahead-of-labour-as-final-election-result-reshapes-nz-s-parliament"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "text": "Parliament passed a law to reserve gas supplies for Australians.",
+      "prose": "On its last sitting day of the year, Australia's federal parliament passed a scheme requiring gas exporters to reserve up to 20% of their supply for the domestic market.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Federal politics live blog, November 27",
+          "publisher": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-27/federal-politics-live-blog-november-27/107431796"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "text": "Joburg's councillors chose Mashaba, not Zille, for mayor.",
+      "prose": "ActionSA leader Herman Mashaba was elected mayor of Johannesburg by the city council with the backing of the ANC, the EFF and the MK Party, defeating the Democratic Alliance's Helen Zille.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "In case you missed it: 27 November 2026",
+          "publisher": "The Citizen",
+          "url": "https://www.citizen.co.za/news/in-case-you-missed-it-27-november-2026/"
+        },
+        {
+          "title": "ActionSA leader Herman Mashaba elected Johannesburg mayor after tense coalition talks",
+          "publisher": "Daily Dispatch",
+          "url": "https://dailydispatch.co.za/politics/2026-11-28-actionsa-leader-herman-mashaba-elected-johannesburg-mayor-after-tense-coalition-talks/"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "text": "Judges dismissed two challenges to South Africa's health plan.",
+      "prose": "South Africa's Constitutional Court dismissed two challenges to the National Health Insurance Act, one unanimously and one by six votes to five, both of which concerned public participation in the law's passage, while other challenges remain pending.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "ConCourt dismisses NHI challenges but fight over universal healthcare plan continues",
+          "publisher": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-27-concourt-dismisses-nhi-challenges-but-fight-over-universal-healthcare-plan-continues/"
+        },
+        {
+          "title": "NHI survives first two constitutional challenges",
+          "publisher": "GroundUp",
+          "url": "https://groundup.org.za/article/nhi-survives-first-two-constitutional-challenges/"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "text": "Seventeen died when gunmen attacked a village of Bassa.",
+      "prose": "Gunmen killed at least 17 people and wounded four in an attack on Tafigana village in the Bassa area of Nigeria's Plateau State, police spokesperson Alfred Alabo said.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Armed men kill 17 villagers in Nigeria's Plateau State, police say",
+          "publisher": "Reuters via Duke FM",
+          "url": "https://duke.fm/2026/11/27/armed-men-kill-17-villagers-in-nigerias-plateau-state-police-say/"
+        },
+        {
+          "title": "Gunmen kill 17 villagers, injure four in Plateau State attack",
+          "publisher": "Political Economist",
+          "url": "https://politicaleconomistng.com/gunmen-kill-17-villagers-injure-four-in-plateau-state-attack/"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "text": "Twelve were killed in Darfur, and villages burned, said observers.",
+      "prose": "The Sudan Human Rights Observatory said attacks it attributed to the Rapid Support Forces killed at least 12 people and burned five villages in Yassin locality, East Darfur.",
+      "region": "Africa",
+      "sources": [
+        {
+          "title": "Sudan: civilians killed as attacks continue in Darfur and Kordofan",
+          "publisher": "Vatican News",
+          "url": "https://www.vaticannews.va/en/world/news/2026-11/sudan-war-civilians-humanitarian-crisis-deaths-displacement.html"
+        }
+      ]
+    },
+    {
+      "n": 23,
+      "text": "Hunger is spreading, the agencies warned, with drought and with conflict.",
+      "prose": "The UN Food and Agriculture Organization and World Food Programme said hunger hotspots had risen to 16 from 13, with El Niño adding new ones in southern Africa and Central America, and named conflict as the main driver in 12 of them.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "El Niño adds new hunger hotspots as conflict continues to drive risk of famine, warn FAO and WFP",
+          "publisher": "Food and Agriculture Organization",
+          "url": "https://www.fao.org/newsroom/detail/el-nino-adds-new-hunger-hotspots-as-conflict-continues-to-drive-risk-of-famine-warn-fao-and-wfp/en"
+        },
+        {
+          "title": "UN warns famine risks rising as hunger hotspots increase",
+          "publisher": "Reuters via Arab News",
+          "url": "https://www.arabnews.com/world/un-warns-famine-risks-rising-as-hunger-hotspots-increase-3014288"
+        }
+      ]
+    },
+    {
+      "n": 24,
+      "text": "Measles fatalities fell, said the World Health Organization.",
+      "prose": "The World Health Organization estimated that 72,000 people died of measles in 2025, a historic low and 91% fewer than in 2000, but warned that gaps in immunisation threatened that progress.",
+      "region": "World",
+      "sources": [
+        {
+          "title": "Historic low in measles deaths, but immunization gaps threaten progress",
+          "publisher": "World Health Organization",
+          "url": "https://www.who.int/news/item/27-11-2026-historic-low-in-measles-deaths--but-immunization-gaps-threaten-progress"
+        },
+        {
+          "title": "Measles deaths at historic low, but immunization gaps threaten progress",
+          "publisher": "UN News",
+          "url": "https://news.un.org/en/story/2026/11/1168894"
+        }
+      ]
+    },
+    {
+      "n": 25,
+      "text": "Chelsea were beaten by three goals to two by Nottingham Forest.",
+      "prose": "Nottingham Forest beat Chelsea 3-2 in the Premier League at the City Ground, with two goals from Morgan Gibbs-White, handing Chelsea a third successive league defeat.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "Nottingham Forest 3-2 Chelsea: match report",
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562"
+        },
+        {
+          "title": "EPL: Chelsea suffer third consecutive defeats to Nottingham Forest",
+          "publisher": "Blueprint",
+          "url": "https://blueprint.ng/epl-chelsea-suffer-third-consecutive-defeats-to-nottingham-forest/"
+        }
+      ]
+    },
+    {
+      "n": 26,
+      "text": "Fifties from Latham and Blundell helped New Zealand in Christchurch.",
+      "prose": "Half-centuries from Tom Latham and Tom Blundell took New Zealand to 246 for five at the close of the first day of the second Test against India at Hagley Oval in Christchurch.",
+      "region": "Oceania",
+      "sources": [
+        {
+          "title": "Latham, Blundell 50s carry New Zealand to 246-5 on day 1 of 2nd cricket test against India",
+          "publisher": "Associated Press via iNFOnews",
+          "url": "https://infonews.ca/news/7995182/latham-blundell-50s-carry-new-zealand-to-246-5-on-day-1-of-2nd-cricket-test-against-india/"
+        }
+      ]
+    },
+    {
+      "n": 27,
+      "text": "Leader in Albany, Stewart-Cousins has died on the Friday.",
+      "prose": "Andrea Stewart-Cousins, majority leader of the New York State Senate since 2019 and the first woman to hold the post, died on Friday at 76, her office said.",
+      "region": "Americas",
+      "sources": [
+        {
+          "title": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76",
+          "publisher": "Associated Press via KSAT",
+          "url": "https://www.ksat.com/news/politics/2026/11/27/ny-senate-leader-andrea-stewart-cousins-first-woman-in-the-role-dies-at-76/"
+        },
+        {
+          "title": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76",
+          "publisher": "Associated Press via Click2Houston",
+          "url": "https://www.click2houston.com/news/politics/2026/11/27/ny-senate-leader-andrea-stewart-cousins-first-woman-in-the-role-dies-at-76/"
+        }
+      ]
+    },
+    {
+      "n": 28,
+      "text": "Gallagher, comic of Ireland, has died, as his agency stated.",
+      "prose": "Irish comedian and broadcaster PJ Gallagher, known for the hidden-camera show Naked Camera and for The Young Offenders, has died at 51, his agency said.",
+      "region": "Europe",
+      "sources": [
+        {
+          "title": "PJ Gallagher dies aged 51",
+          "publisher": "RTÉ",
+          "url": "https://www.rte.ie/entertainment/2026/1127/1600964-pj-gallagher/"
+        },
+        {
+          "title": "PJ Gallagher dies",
+          "publisher": "TheJournal.ie",
+          "url": "https://www.thejournal.ie/pj-gallagher-dies-7240976-Nov2026/"
+        }
+      ]
+    }
+  ]
+}
